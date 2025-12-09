@@ -13,6 +13,7 @@ import {
   getRandomAvatar,
   getFeedbackMessage,
 } from "./quiz";
+import { sendVerificationCode, verifyCode } from "./gmail-auth";
 
 export const appRouter = router({
   system: systemRouter,
@@ -25,6 +26,17 @@ export const appRouter = router({
         success: true,
       } as const;
     }),
+    sendVerificationCode: publicProcedure
+      .input(z.object({ email: z.string().email() }))
+      .mutation(async ({ input }) => {
+        await sendVerificationCode(input.email);
+        return { success: true, message: "Code sent to email" };
+      }),
+    verifyCode: publicProcedure
+      .input(z.object({ email: z.string().email(), code: z.string().length(6) }))
+      .mutation(async ({ input }) => {
+        return await verifyCode(input.email, input.code);
+      }),
   }),
 
   quiz: router({
