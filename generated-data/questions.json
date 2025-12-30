@@ -1,0 +1,1393 @@
+[
+  {
+    "questionText": "_____ am a student.",
+    "correctAnswer": "I",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"I\" for the first person singular subject when talking about yourself.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is my best friend. (talking about a boy)",
+    "correctAnswer": "He",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"He\" when referring to a male person.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are from New York.",
+    "correctAnswer": "We",
+    "options": [
+      "I",
+      "We",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"We\" for the first person plural subject.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is a beautiful city. (talking about Paris)",
+    "correctAnswer": "It",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "explanationEnglish": "Use \"It\" for things, places, animals, and ideas.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are my parents.",
+    "correctAnswer": "They",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "explanationEnglish": "Use \"They\" for plural subjects (more than one person or thing).",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I _____ happy today.",
+    "correctAnswer": "am",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"am\" with the subject \"I\".",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She _____ a doctor.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with he/she/it.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "They _____ from California.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with you/we/they.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The book _____ on the table.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with singular nouns.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "We _____ students at this university.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with \"we\".",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I have _____ apple.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" before words starting with a vowel sound.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She is _____ teacher.",
+    "correctAnswer": "a",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"a\" before words starting with a consonant sound.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ sun is very bright today.",
+    "correctAnswer": "The",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "-"
+    ],
+    "explanationEnglish": "Use \"the\" for unique things (there is only one sun).",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I need _____ umbrella.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" before \"umbrella\" because it starts with a vowel sound.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "This is _____ best restaurant in town.",
+    "correctAnswer": "the",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"the\" with superlatives (best, worst, most, etc.).",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I _____ watching TV right now.",
+    "correctAnswer": "am",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Present continuous: am/is/are + verb-ing. Use \"am\" with \"I\".",
+    "category": "Present Continuous",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She _____ cooking dinner.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with he/she/it in present continuous.",
+    "category": "Present Continuous",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "They _____ playing soccer in the park.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with they/we/you in present continuous.",
+    "category": "Present Continuous",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "What _____ you doing?",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "do"
+    ],
+    "explanationEnglish": "Use \"are\" with \"you\" in present continuous questions.",
+    "category": "Present Continuous",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The baby _____ sleeping.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with singular subjects like \"the baby\".",
+    "category": "Present Continuous",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is your name?",
+    "correctAnswer": "What",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"What\" to ask about things or information.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ do you live?",
+    "correctAnswer": "Where",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"Where\" to ask about places.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is your birthday?",
+    "correctAnswer": "When",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"When\" to ask about time.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is that man?",
+    "correctAnswer": "Who",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"Who\" to ask about people.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are you late?",
+    "correctAnswer": "Why",
+    "options": [
+      "What",
+      "Where",
+      "Why",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"Why\" to ask about reasons.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ do you spell your name?",
+    "correctAnswer": "How",
+    "options": [
+      "What",
+      "How",
+      "Why",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"How\" to ask about manner or method.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The cat is _____ the table.",
+    "correctAnswer": "on",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"on\" for surfaces.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She is _____ the kitchen.",
+    "correctAnswer": "in",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"in\" for enclosed spaces.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I will meet you _____ the bus stop.",
+    "correctAnswer": "at",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"at\" for specific points or locations.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The dog is _____ the bed.",
+    "correctAnswer": "under",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"under\" for something below.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The picture is _____ the wall.",
+    "correctAnswer": "on",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"on\" for things attached to surfaces like walls.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I _____ to the store yesterday.",
+    "correctAnswer": "walked",
+    "options": [
+      "walk",
+      "walked",
+      "walking",
+      "walks"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ her homework last night.",
+    "correctAnswer": "finished",
+    "options": [
+      "finish",
+      "finished",
+      "finishing",
+      "finishes"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ soccer last weekend.",
+    "correctAnswer": "played",
+    "options": [
+      "play",
+      "played",
+      "playing",
+      "plays"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ the movie together.",
+    "correctAnswer": "watched",
+    "options": [
+      "watch",
+      "watched",
+      "watching",
+      "watches"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ to music all evening.",
+    "correctAnswer": "listened",
+    "options": [
+      "listen",
+      "listened",
+      "listening",
+      "listens"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ to New York last summer.",
+    "correctAnswer": "went",
+    "options": [
+      "go",
+      "went",
+      "gone",
+      "going"
+    ],
+    "explanationEnglish": "Go → went (irregular past tense).",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ a delicious cake.",
+    "correctAnswer": "made",
+    "options": [
+      "make",
+      "made",
+      "making",
+      "makes"
+    ],
+    "explanationEnglish": "Make → made (irregular past tense).",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ the answer immediately.",
+    "correctAnswer": "knew",
+    "options": [
+      "know",
+      "knew",
+      "known",
+      "knowing"
+    ],
+    "explanationEnglish": "Know → knew (irregular past tense).",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ a new car last month.",
+    "correctAnswer": "bought",
+    "options": [
+      "buy",
+      "bought",
+      "buying",
+      "buys"
+    ],
+    "explanationEnglish": "Buy → bought (irregular past tense).",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ breakfast at 8 AM.",
+    "correctAnswer": "ate",
+    "options": [
+      "eat",
+      "ate",
+      "eaten",
+      "eating"
+    ],
+    "explanationEnglish": "Eat → ate (irregular past tense).",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ a strange noise last night.",
+    "correctAnswer": "heard",
+    "options": [
+      "hear",
+      "heard",
+      "hearing",
+      "hears"
+    ],
+    "explanationEnglish": "Hear → heard (irregular past tense).",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This book is _____ than that one.",
+    "correctAnswer": "more interesting",
+    "options": [
+      "interesting",
+      "more interesting",
+      "most interesting",
+      "interestinger"
+    ],
+    "explanationEnglish": "Use \"more + adjective\" for long adjectives in comparatives.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "My house is _____ than yours.",
+    "correctAnswer": "bigger",
+    "options": [
+      "big",
+      "bigger",
+      "biggest",
+      "more big"
+    ],
+    "explanationEnglish": "Add \"-er\" to short adjectives. Double the consonant for CVC words.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She runs _____ than her brother.",
+    "correctAnswer": "faster",
+    "options": [
+      "fast",
+      "faster",
+      "fastest",
+      "more fast"
+    ],
+    "explanationEnglish": "Add \"-er\" to short adjectives for comparatives.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This exam was _____ than the last one.",
+    "correctAnswer": "easier",
+    "options": [
+      "easy",
+      "easier",
+      "easiest",
+      "more easy"
+    ],
+    "explanationEnglish": "Change \"y\" to \"i\" and add \"-er\" for adjectives ending in \"y\".",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "Your idea is _____ than mine.",
+    "correctAnswer": "better",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "more good"
+    ],
+    "explanationEnglish": "Good → better (irregular comparative).",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "_____ you help me with this?",
+    "correctAnswer": "Can",
+    "options": [
+      "Can",
+      "Do",
+      "Are",
+      "Have"
+    ],
+    "explanationEnglish": "Use \"Can\" to ask for help or make requests.",
+    "category": "Modal Verbs - Can/Could",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ speak three languages.",
+    "correctAnswer": "can",
+    "options": [
+      "can",
+      "cans",
+      "could",
+      "is can"
+    ],
+    "explanationEnglish": "Use \"can\" to express ability. No \"s\" for third person.",
+    "category": "Modal Verbs - Can/Could",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "When I was young, I _____ run very fast.",
+    "correctAnswer": "could",
+    "options": [
+      "can",
+      "could",
+      "can to",
+      "could to"
+    ],
+    "explanationEnglish": "Use \"could\" for past ability.",
+    "category": "Modal Verbs - Can/Could",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "_____ I borrow your pen?",
+    "correctAnswer": "Could",
+    "options": [
+      "Could",
+      "Do",
+      "Am",
+      "Have"
+    ],
+    "explanationEnglish": "Use \"Could\" for polite requests.",
+    "category": "Modal Verbs - Can/Could",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ swim when I was five.",
+    "correctAnswer": "couldn't",
+    "options": [
+      "can't",
+      "couldn't",
+      "don't can",
+      "wasn't can"
+    ],
+    "explanationEnglish": "Use \"couldn't\" for past inability.",
+    "category": "Modal Verbs - Can/Could",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ never _____ to Japan.",
+    "correctAnswer": "have been",
+    "options": [
+      "have been",
+      "has been",
+      "was",
+      "am being"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle. Use for life experiences.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "She _____ already _____ her homework.",
+    "correctAnswer": "has finished",
+    "options": [
+      "has finished",
+      "have finished",
+      "finished",
+      "is finishing"
+    ],
+    "explanationEnglish": "Use \"has\" with he/she/it. \"Already\" goes between have/has and past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "They _____ lived here for ten years.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "explanationEnglish": "Use \"have\" with they/we/you/I. Use \"for\" with periods of time.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "_____ you ever _____ sushi?",
+    "correctAnswer": "Have eaten",
+    "options": [
+      "Have eaten",
+      "Has eaten",
+      "Did eat",
+      "Are eating"
+    ],
+    "explanationEnglish": "Use \"Have + subject + ever + past participle\" for experience questions.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "I _____ just _____ my lunch.",
+    "correctAnswer": "have had",
+    "options": [
+      "have had",
+      "has had",
+      "had",
+      "am having"
+    ],
+    "explanationEnglish": "\"Just\" indicates recent completion. Use present perfect.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If it _____, we will stay home.",
+    "correctAnswer": "rains",
+    "options": [
+      "rains",
+      "will rain",
+      "rained",
+      "rain"
+    ],
+    "explanationEnglish": "First conditional: If + present simple, will + base verb.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If you study hard, you _____ the exam.",
+    "correctAnswer": "will pass",
+    "options": [
+      "will pass",
+      "pass",
+      "passed",
+      "passing"
+    ],
+    "explanationEnglish": "Use \"will + base verb\" in the result clause.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "She _____ angry if you are late.",
+    "correctAnswer": "will be",
+    "options": [
+      "will be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explanationEnglish": "Use \"will be\" for future result in first conditional.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If I _____ time, I will call you.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "will have",
+      "had",
+      "having"
+    ],
+    "explanationEnglish": "Use present simple after \"if\" in first conditional.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "We _____ go to the beach if the weather is nice.",
+    "correctAnswer": "will",
+    "options": [
+      "will",
+      "would",
+      "are",
+      "do"
+    ],
+    "explanationEnglish": "Use \"will\" for the result clause in first conditional.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If I _____ rich, I would travel the world.",
+    "correctAnswer": "were",
+    "options": [
+      "were",
+      "am",
+      "will be",
+      "would be"
+    ],
+    "explanationEnglish": "Second conditional: If + past simple, would + base verb. Use \"were\" for all subjects.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If she _____ here, she would help us.",
+    "correctAnswer": "were",
+    "options": [
+      "were",
+      "is",
+      "will be",
+      "would be"
+    ],
+    "explanationEnglish": "Use \"were\" (not \"was\") in formal second conditional.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "I _____ buy a house if I had more money.",
+    "correctAnswer": "would",
+    "options": [
+      "would",
+      "will",
+      "could",
+      "should"
+    ],
+    "explanationEnglish": "Use \"would + base verb\" in the result clause.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If they _____ harder, they would succeed.",
+    "correctAnswer": "worked",
+    "options": [
+      "worked",
+      "work",
+      "will work",
+      "would work"
+    ],
+    "explanationEnglish": "Use past simple after \"if\" in second conditional.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "What _____ you do if you won the lottery?",
+    "correctAnswer": "would",
+    "options": [
+      "would",
+      "will",
+      "do",
+      "did"
+    ],
+    "explanationEnglish": "Use \"would\" in questions about hypothetical situations.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The book _____ written by Shakespeare.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle. Use \"was\" for past singular.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "English _____ spoken in many countries.",
+    "correctAnswer": "is",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" for present passive with singular subjects.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The cars _____ made in Japan.",
+    "correctAnswer": "are",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" for present passive with plural subjects.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The letter _____ sent yesterday.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "has"
+    ],
+    "explanationEnglish": "Use \"was\" for past passive with singular subjects.",
+    "category": "Passive Voice - Past",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The windows _____ cleaned every week.",
+    "correctAnswer": "are",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" for present passive with plural subjects.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "By the time I arrived, she _____ already left.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle. For actions before another past action.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "I _____ never seen such a beautiful sunset before that day.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "was"
+    ],
+    "explanationEnglish": "Use past perfect for experiences before a specific past time.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "They _____ finished dinner when we called.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "were"
+    ],
+    "explanationEnglish": "Past perfect shows the earlier of two past events.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She realized she _____ forgotten her keys.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "The forgetting happened before the realizing.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If I _____ known, I would have helped.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional uses past perfect in the if-clause.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If I had studied harder, I _____ passed the exam.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She _____ come if you had invited her.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Use \"would have + past participle\" for unreal past results.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If they _____ arrived earlier, they would have met him.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "would",
+      "would have"
+    ],
+    "explanationEnglish": "Use past perfect after \"if\" in third conditional.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "I _____ told you if I had known.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional expresses regret about past situations.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If we _____ taken a taxi, we would have arrived on time.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "would",
+      "would have"
+    ],
+    "explanationEnglish": "Past perfect in the condition clause of third conditional.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She said she _____ tired.",
+    "correctAnswer": "was",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "been"
+    ],
+    "explanationEnglish": "In reported speech, present tense becomes past tense.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He told me he _____ call me later.",
+    "correctAnswer": "would",
+    "options": [
+      "will",
+      "would",
+      "can",
+      "could"
+    ],
+    "explanationEnglish": "In reported speech, \"will\" becomes \"would\".",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "They said they _____ been waiting for an hour.",
+    "correctAnswer": "had",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "were"
+    ],
+    "explanationEnglish": "Present perfect becomes past perfect in reported speech.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She asked me where I _____.",
+    "correctAnswer": "lived",
+    "options": [
+      "live",
+      "lived",
+      "living",
+      "lives"
+    ],
+    "explanationEnglish": "In reported questions, use statement word order and past tense.",
+    "category": "Reported Speech - Questions",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He asked if I _____ help him.",
+    "correctAnswer": "could",
+    "options": [
+      "can",
+      "could",
+      "will",
+      "would"
+    ],
+    "explanationEnglish": "\"Can\" becomes \"could\" in reported speech.",
+    "category": "Reported Speech - Questions",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "Not only _____ she intelligent, but she is also hardworking.",
+    "correctAnswer": "is",
+    "options": [
+      "is",
+      "does",
+      "has",
+      "was"
+    ],
+    "explanationEnglish": "Inversion after \"Not only\": auxiliary + subject + main verb.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Rarely _____ I seen such dedication.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "do",
+      "did"
+    ],
+    "explanationEnglish": "Inversion after negative adverbs like \"rarely\".",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Had I known about the meeting, I _____ attended.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Inverted conditional: Had + subject replaces If + subject + had.",
+    "category": "Advanced Conditionals",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "It was John _____ broke the window.",
+    "correctAnswer": "who",
+    "options": [
+      "who",
+      "which",
+      "what",
+      "whom"
+    ],
+    "explanationEnglish": "Cleft sentence: It + be + focus + who/that + rest of sentence.",
+    "category": "Cleft Sentences",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "What I need _____ a vacation.",
+    "correctAnswer": "is",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "were"
+    ],
+    "explanationEnglish": "Pseudo-cleft sentence: What + clause + be + focus.",
+    "category": "Cleft Sentences",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "I suggest that he _____ more careful.",
+    "correctAnswer": "be",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explanationEnglish": "Subjunctive mood: base form after verbs like suggest, recommend, insist.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "It is essential that she _____ on time.",
+    "correctAnswer": "arrive",
+    "options": [
+      "arrive",
+      "arrives",
+      "arrived",
+      "arriving"
+    ],
+    "explanationEnglish": "Use base form (no -s) in subjunctive after \"It is essential that\".",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "The doctor recommended that he _____ smoking.",
+    "correctAnswer": "stop",
+    "options": [
+      "stop",
+      "stops",
+      "stopped",
+      "stopping"
+    ],
+    "explanationEnglish": "Subjunctive uses base form regardless of subject.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "If I _____ you, I would accept the offer.",
+    "correctAnswer": "were",
+    "options": [
+      "were",
+      "was",
+      "am",
+      "be"
+    ],
+    "explanationEnglish": "Use \"were\" (subjunctive) for hypothetical situations with all subjects.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "I wish I _____ speak French fluently.",
+    "correctAnswer": "could",
+    "options": [
+      "could",
+      "can",
+      "would",
+      "will"
+    ],
+    "explanationEnglish": "Use past forms after \"wish\" for present wishes.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "The project is still up in the _____.",
+    "correctAnswer": "air",
+    "options": [
+      "air",
+      "sky",
+      "clouds",
+      "wind"
+    ],
+    "explanationEnglish": "\"Up in the air\" means uncertain or undecided.",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "She has a chip on her _____.",
+    "correctAnswer": "shoulder",
+    "options": [
+      "shoulder",
+      "arm",
+      "back",
+      "head"
+    ],
+    "explanationEnglish": "\"Chip on one's shoulder\" means holding a grudge or being easily offended.",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "Let's not beat around the _____.",
+    "correctAnswer": "bush",
+    "options": [
+      "bush",
+      "tree",
+      "garden",
+      "point"
+    ],
+    "explanationEnglish": "\"Beat around the bush\" means to avoid the main topic.",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "He's barking up the wrong _____.",
+    "correctAnswer": "tree",
+    "options": [
+      "tree",
+      "path",
+      "road",
+      "way"
+    ],
+    "explanationEnglish": "\"Barking up the wrong tree\" means pursuing a mistaken course.",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "That's the last _____!",
+    "correctAnswer": "straw",
+    "options": [
+      "straw",
+      "thing",
+      "drop",
+      "bit"
+    ],
+    "explanationEnglish": "\"The last straw\" is the final problem that makes a situation unbearable.",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "I _____ have done it, but I chose not to.",
+    "correctAnswer": "could",
+    "options": [
+      "could",
+      "might",
+      "would",
+      "should"
+    ],
+    "explanationEnglish": "\"Could have\" expresses past ability/possibility that wasn't used.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "She _____ have arrived by now.",
+    "correctAnswer": "should",
+    "options": [
+      "should",
+      "would",
+      "could",
+      "might"
+    ],
+    "explanationEnglish": "\"Should have\" expresses expectation about the past.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "He _____ not have said that.",
+    "correctAnswer": "ought",
+    "options": [
+      "ought",
+      "should",
+      "would",
+      "could"
+    ],
+    "explanationEnglish": "\"Ought not to have\" is more formal than \"shouldn't have\".",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "The data _____ that the hypothesis is correct.",
+    "correctAnswer": "suggest",
+    "options": [
+      "suggest",
+      "suggests",
+      "suggested",
+      "suggesting"
+    ],
+    "explanationEnglish": "\"Data\" can be treated as plural (formal) or singular (informal).",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "Neither the students nor the teacher _____ aware of the change.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "are"
+    ],
+    "explanationEnglish": "With \"neither...nor\", the verb agrees with the nearest subject.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  }
+]

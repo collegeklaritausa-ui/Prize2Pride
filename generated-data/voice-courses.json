@@ -1,0 +1,224 @@
+{
+  "A1": {
+    "title": "Foundations of American English",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Greetings & Introductions",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Saying Hello",
+            "targetText": "Hello! My name is... Nice to meet you!",
+            "vocabulary": [
+              "Hello",
+              "Hi",
+              "Hey",
+              "Nice",
+              "Meet"
+            ],
+            "grammarFocus": "Subject pronouns and verb \"to be\"",
+            "culturalNote": "Americans often use informal greetings like \"Hey\" with friends.",
+            "practiceDialogue": "A: Hello! My name is Sarah. B: Hi Sarah! Nice to meet you. I'm Mike."
+          },
+          {
+            "id": 2,
+            "title": "Asking How Someone Is",
+            "targetText": "How are you? I'm fine, thank you. And you?",
+            "vocabulary": [
+              "How",
+              "Fine",
+              "Good",
+              "Great",
+              "Thank you"
+            ],
+            "grammarFocus": "Question formation with \"How\"",
+            "culturalNote": "\"How are you?\" is often a greeting, not a real question.",
+            "practiceDialogue": "A: How are you doing? B: I'm doing great, thanks! How about you?"
+          },
+          {
+            "id": 3,
+            "title": "Saying Goodbye",
+            "targetText": "Goodbye! See you later! Take care!",
+            "vocabulary": [
+              "Goodbye",
+              "Bye",
+              "Later",
+              "Soon",
+              "Care"
+            ],
+            "grammarFocus": "Imperative mood",
+            "culturalNote": "Americans often say \"See ya!\" as an informal goodbye.",
+            "practiceDialogue": "A: I have to go now. B: Okay, see you later! Take care!"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Daily Routines",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Morning Activities",
+            "targetText": "I wake up at 7 AM. I brush my teeth and eat breakfast.",
+            "vocabulary": [
+              "Wake",
+              "Brush",
+              "Teeth",
+              "Eat",
+              "Breakfast"
+            ],
+            "grammarFocus": "Present simple for routines",
+            "culturalNote": "Many Americans drink coffee with breakfast.",
+            "practiceDialogue": "A: What time do you wake up? B: I usually wake up at 7."
+          },
+          {
+            "id": 2,
+            "title": "Work and School",
+            "targetText": "I go to work at 9 AM. I work until 5 PM.",
+            "vocabulary": [
+              "Work",
+              "School",
+              "Office",
+              "Study",
+              "Learn"
+            ],
+            "grammarFocus": "Prepositions of time",
+            "culturalNote": "The typical American workday is 9 to 5.",
+            "practiceDialogue": "A: Where do you work? B: I work at a bank downtown."
+          }
+        ]
+      }
+    ]
+  },
+  "A2": {
+    "title": "Everyday Communication",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Shopping & Services",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "At the Store",
+            "targetText": "How much does this cost? Can I pay by card?",
+            "vocabulary": [
+              "Cost",
+              "Price",
+              "Pay",
+              "Card",
+              "Cash"
+            ],
+            "grammarFocus": "Questions with \"How much\"",
+            "culturalNote": "Credit cards are widely accepted in the US.",
+            "practiceDialogue": "A: How much is this shirt? B: It's $25. A: I'll take it."
+          }
+        ]
+      }
+    ]
+  },
+  "B1": {
+    "title": "Professional English",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Workplace Communication",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Email Writing",
+            "targetText": "Dear Mr. Smith, I am writing to inquire about...",
+            "vocabulary": [
+              "Dear",
+              "Inquire",
+              "Regarding",
+              "Sincerely",
+              "Regards"
+            ],
+            "grammarFocus": "Formal register and passive voice",
+            "culturalNote": "American business emails are often more direct than in other cultures.",
+            "practiceDialogue": "Writing a professional email requesting information."
+          }
+        ]
+      }
+    ]
+  },
+  "B2": {
+    "title": "Advanced Communication",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Debates & Discussions",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Expressing Opinions",
+            "targetText": "In my opinion... I believe that... On the other hand...",
+            "vocabulary": [
+              "Opinion",
+              "Believe",
+              "However",
+              "Nevertheless",
+              "Furthermore"
+            ],
+            "grammarFocus": "Discourse markers and hedging",
+            "culturalNote": "Americans value direct but respectful disagreement.",
+            "practiceDialogue": "Discussing pros and cons of a topic."
+          }
+        ]
+      }
+    ]
+  },
+  "C1": {
+    "title": "Academic & Professional Mastery",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Academic Presentations",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Structuring Arguments",
+            "targetText": "The evidence suggests... This leads us to conclude...",
+            "vocabulary": [
+              "Evidence",
+              "Conclude",
+              "Hypothesis",
+              "Analysis",
+              "Synthesis"
+            ],
+            "grammarFocus": "Complex sentence structures",
+            "culturalNote": "American academic style values clarity and evidence.",
+            "practiceDialogue": "Presenting research findings."
+          }
+        ]
+      }
+    ]
+  },
+  "C2": {
+    "title": "Native-Level Fluency",
+    "modules": [
+      {
+        "id": 1,
+        "title": "Nuanced Expression",
+        "lessons": [
+          {
+            "id": 1,
+            "title": "Idioms & Cultural References",
+            "targetText": "It's not rocket science. Let's touch base later.",
+            "vocabulary": [
+              "Idiom",
+              "Colloquial",
+              "Nuance",
+              "Connotation",
+              "Register"
+            ],
+            "grammarFocus": "Stylistic variation and register",
+            "culturalNote": "Understanding cultural references is key to native-like fluency.",
+            "practiceDialogue": "Using idioms naturally in conversation."
+          }
+        ]
+      }
+    ]
+  }
+}

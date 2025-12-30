@@ -1,0 +1,462 @@
+{
+  "A1": {
+    "Greetings": [
+      {
+        "word": "Hello",
+        "definition": "A common greeting",
+        "example": "Hello, how are you?",
+        "pronunciation": "/həˈloʊ/"
+      },
+      {
+        "word": "Goodbye",
+        "definition": "Used when leaving",
+        "example": "Goodbye, see you tomorrow!",
+        "pronunciation": "/ɡʊdˈbaɪ/"
+      },
+      {
+        "word": "Please",
+        "definition": "Used to make requests polite",
+        "example": "Please help me.",
+        "pronunciation": "/pliːz/"
+      },
+      {
+        "word": "Thank you",
+        "definition": "Expression of gratitude",
+        "example": "Thank you for your help.",
+        "pronunciation": "/θæŋk juː/"
+      },
+      {
+        "word": "Sorry",
+        "definition": "Expression of apology",
+        "example": "Sorry, I'm late.",
+        "pronunciation": "/ˈsɑːri/"
+      }
+    ],
+    "Numbers": [
+      {
+        "word": "One",
+        "definition": "The number 1",
+        "example": "I have one apple.",
+        "pronunciation": "/wʌn/"
+      },
+      {
+        "word": "Two",
+        "definition": "The number 2",
+        "example": "There are two cats.",
+        "pronunciation": "/tuː/"
+      },
+      {
+        "word": "Three",
+        "definition": "The number 3",
+        "example": "I see three birds.",
+        "pronunciation": "/θriː/"
+      },
+      {
+        "word": "Ten",
+        "definition": "The number 10",
+        "example": "Count to ten.",
+        "pronunciation": "/ten/"
+      },
+      {
+        "word": "Hundred",
+        "definition": "The number 100",
+        "example": "There are a hundred students.",
+        "pronunciation": "/ˈhʌndrəd/"
+      }
+    ],
+    "Colors": [
+      {
+        "word": "Red",
+        "definition": "The color of blood",
+        "example": "The apple is red.",
+        "pronunciation": "/red/"
+      },
+      {
+        "word": "Blue",
+        "definition": "The color of the sky",
+        "example": "The sky is blue.",
+        "pronunciation": "/bluː/"
+      },
+      {
+        "word": "Green",
+        "definition": "The color of grass",
+        "example": "The grass is green.",
+        "pronunciation": "/ɡriːn/"
+      },
+      {
+        "word": "Yellow",
+        "definition": "The color of the sun",
+        "example": "The sun is yellow.",
+        "pronunciation": "/ˈjeloʊ/"
+      },
+      {
+        "word": "Black",
+        "definition": "The darkest color",
+        "example": "My cat is black.",
+        "pronunciation": "/blæk/"
+      }
+    ],
+    "Family": [
+      {
+        "word": "Mother",
+        "definition": "Female parent",
+        "example": "My mother is kind.",
+        "pronunciation": "/ˈmʌðər/"
+      },
+      {
+        "word": "Father",
+        "definition": "Male parent",
+        "example": "My father works hard.",
+        "pronunciation": "/ˈfɑːðər/"
+      },
+      {
+        "word": "Sister",
+        "definition": "Female sibling",
+        "example": "I have one sister.",
+        "pronunciation": "/ˈsɪstər/"
+      },
+      {
+        "word": "Brother",
+        "definition": "Male sibling",
+        "example": "My brother is tall.",
+        "pronunciation": "/ˈbrʌðər/"
+      },
+      {
+        "word": "Baby",
+        "definition": "Very young child",
+        "example": "The baby is sleeping.",
+        "pronunciation": "/ˈbeɪbi/"
+      }
+    ]
+  },
+  "A2": {
+    "Travel": [
+      {
+        "word": "Airport",
+        "definition": "Place where planes take off and land",
+        "example": "We arrived at the airport early.",
+        "pronunciation": "/ˈerpɔːrt/"
+      },
+      {
+        "word": "Passport",
+        "definition": "Document for international travel",
+        "example": "Don't forget your passport.",
+        "pronunciation": "/ˈpæspɔːrt/"
+      },
+      {
+        "word": "Luggage",
+        "definition": "Bags and suitcases",
+        "example": "My luggage is heavy.",
+        "pronunciation": "/ˈlʌɡɪdʒ/"
+      },
+      {
+        "word": "Ticket",
+        "definition": "Pass for travel or events",
+        "example": "I bought a train ticket.",
+        "pronunciation": "/ˈtɪkɪt/"
+      },
+      {
+        "word": "Hotel",
+        "definition": "Place to stay when traveling",
+        "example": "We stayed at a nice hotel.",
+        "pronunciation": "/hoʊˈtel/"
+      }
+    ],
+    "Shopping": [
+      {
+        "word": "Price",
+        "definition": "Cost of something",
+        "example": "What's the price of this shirt?",
+        "pronunciation": "/praɪs/"
+      },
+      {
+        "word": "Discount",
+        "definition": "Reduction in price",
+        "example": "There's a 20% discount today.",
+        "pronunciation": "/ˈdɪskaʊnt/"
+      },
+      {
+        "word": "Receipt",
+        "definition": "Proof of purchase",
+        "example": "Keep your receipt.",
+        "pronunciation": "/rɪˈsiːt/"
+      },
+      {
+        "word": "Cash",
+        "definition": "Physical money",
+        "example": "I'll pay in cash.",
+        "pronunciation": "/kæʃ/"
+      },
+      {
+        "word": "Change",
+        "definition": "Money returned after payment",
+        "example": "Here's your change.",
+        "pronunciation": "/tʃeɪndʒ/"
+      }
+    ]
+  },
+  "B1": {
+    "Education": [
+      {
+        "word": "Curriculum",
+        "definition": "Subjects in a course of study",
+        "example": "The curriculum includes math and science.",
+        "pronunciation": "/kəˈrɪkjələm/"
+      },
+      {
+        "word": "Assignment",
+        "definition": "Task given to students",
+        "example": "The assignment is due Friday.",
+        "pronunciation": "/əˈsaɪnmənt/"
+      },
+      {
+        "word": "Graduate",
+        "definition": "Complete a degree",
+        "example": "She will graduate next year.",
+        "pronunciation": "/ˈɡrædʒueɪt/"
+      },
+      {
+        "word": "Scholarship",
+        "definition": "Financial aid for students",
+        "example": "He won a scholarship.",
+        "pronunciation": "/ˈskɑːlərʃɪp/"
+      },
+      {
+        "word": "Lecture",
+        "definition": "Educational talk",
+        "example": "The lecture was interesting.",
+        "pronunciation": "/ˈlektʃər/"
+      }
+    ],
+    "Technology": [
+      {
+        "word": "Software",
+        "definition": "Computer programs",
+        "example": "Install the software first.",
+        "pronunciation": "/ˈsɔːftwer/"
+      },
+      {
+        "word": "Download",
+        "definition": "Transfer data to your device",
+        "example": "Download the app here.",
+        "pronunciation": "/ˈdaʊnloʊd/"
+      },
+      {
+        "word": "Password",
+        "definition": "Secret word for access",
+        "example": "Don't share your password.",
+        "pronunciation": "/ˈpæswɜːrd/"
+      },
+      {
+        "word": "Update",
+        "definition": "Make current",
+        "example": "Update your phone regularly.",
+        "pronunciation": "/ʌpˈdeɪt/"
+      },
+      {
+        "word": "Network",
+        "definition": "Connected system",
+        "example": "The network is down.",
+        "pronunciation": "/ˈnetwɜːrk/"
+      }
+    ]
+  },
+  "B2": {
+    "Business": [
+      {
+        "word": "Revenue",
+        "definition": "Income from business",
+        "example": "Revenue increased this quarter.",
+        "pronunciation": "/ˈrevənuː/"
+      },
+      {
+        "word": "Negotiate",
+        "definition": "Discuss to reach agreement",
+        "example": "We need to negotiate the terms.",
+        "pronunciation": "/nɪˈɡoʊʃieɪt/"
+      },
+      {
+        "word": "Deadline",
+        "definition": "Time limit",
+        "example": "The deadline is tomorrow.",
+        "pronunciation": "/ˈdedlaɪn/"
+      },
+      {
+        "word": "Stakeholder",
+        "definition": "Person with interest in business",
+        "example": "All stakeholders were informed.",
+        "pronunciation": "/ˈsteɪkhoʊldər/"
+      },
+      {
+        "word": "Strategy",
+        "definition": "Plan for achieving goals",
+        "example": "Our strategy is working.",
+        "pronunciation": "/ˈstrætədʒi/"
+      }
+    ],
+    "Environment": [
+      {
+        "word": "Sustainable",
+        "definition": "Able to continue long-term",
+        "example": "We need sustainable solutions.",
+        "pronunciation": "/səˈsteɪnəbl/"
+      },
+      {
+        "word": "Pollution",
+        "definition": "Contamination of environment",
+        "example": "Air pollution is a problem.",
+        "pronunciation": "/pəˈluːʃn/"
+      },
+      {
+        "word": "Renewable",
+        "definition": "Can be replenished",
+        "example": "Solar is renewable energy.",
+        "pronunciation": "/rɪˈnuːəbl/"
+      },
+      {
+        "word": "Conservation",
+        "definition": "Protection of resources",
+        "example": "Conservation efforts are increasing.",
+        "pronunciation": "/ˌkɑːnsərˈveɪʃn/"
+      },
+      {
+        "word": "Ecosystem",
+        "definition": "Community of living things",
+        "example": "The ecosystem is fragile.",
+        "pronunciation": "/ˈiːkoʊsɪstəm/"
+      }
+    ]
+  },
+  "C1": {
+    "Academic": [
+      {
+        "word": "Hypothesis",
+        "definition": "Proposed explanation",
+        "example": "The hypothesis was tested.",
+        "pronunciation": "/haɪˈpɑːθəsɪs/"
+      },
+      {
+        "word": "Methodology",
+        "definition": "System of methods",
+        "example": "Explain your methodology.",
+        "pronunciation": "/ˌmeθəˈdɑːlədʒi/"
+      },
+      {
+        "word": "Empirical",
+        "definition": "Based on observation",
+        "example": "We need empirical evidence.",
+        "pronunciation": "/ɪmˈpɪrɪkl/"
+      },
+      {
+        "word": "Paradigm",
+        "definition": "Model or pattern",
+        "example": "A new paradigm emerged.",
+        "pronunciation": "/ˈpærədaɪm/"
+      },
+      {
+        "word": "Synthesis",
+        "definition": "Combination of ideas",
+        "example": "The synthesis was brilliant.",
+        "pronunciation": "/ˈsɪnθəsɪs/"
+      }
+    ],
+    "Legal": [
+      {
+        "word": "Jurisdiction",
+        "definition": "Authority to make decisions",
+        "example": "This is outside our jurisdiction.",
+        "pronunciation": "/ˌdʒʊrɪsˈdɪkʃn/"
+      },
+      {
+        "word": "Litigation",
+        "definition": "Legal proceedings",
+        "example": "They avoided litigation.",
+        "pronunciation": "/ˌlɪtɪˈɡeɪʃn/"
+      },
+      {
+        "word": "Precedent",
+        "definition": "Previous case as example",
+        "example": "This sets a precedent.",
+        "pronunciation": "/ˈpresɪdənt/"
+      },
+      {
+        "word": "Statute",
+        "definition": "Written law",
+        "example": "The statute was amended.",
+        "pronunciation": "/ˈstætʃuːt/"
+      },
+      {
+        "word": "Liability",
+        "definition": "Legal responsibility",
+        "example": "They denied liability.",
+        "pronunciation": "/ˌlaɪəˈbɪləti/"
+      }
+    ]
+  },
+  "C2": {
+    "Sophisticated": [
+      {
+        "word": "Ephemeral",
+        "definition": "Lasting very short time",
+        "example": "Fame can be ephemeral.",
+        "pronunciation": "/ɪˈfemərəl/"
+      },
+      {
+        "word": "Ubiquitous",
+        "definition": "Present everywhere",
+        "example": "Smartphones are ubiquitous.",
+        "pronunciation": "/juːˈbɪkwɪtəs/"
+      },
+      {
+        "word": "Serendipity",
+        "definition": "Happy accident",
+        "example": "It was pure serendipity.",
+        "pronunciation": "/ˌserənˈdɪpəti/"
+      },
+      {
+        "word": "Quintessential",
+        "definition": "Perfect example",
+        "example": "He's the quintessential gentleman.",
+        "pronunciation": "/ˌkwɪntɪˈsenʃl/"
+      },
+      {
+        "word": "Sycophant",
+        "definition": "Person who flatters",
+        "example": "He's surrounded by sycophants.",
+        "pronunciation": "/ˈsɪkəfænt/"
+      }
+    ],
+    "Idiomatic": [
+      {
+        "word": "Red herring",
+        "definition": "Misleading clue",
+        "example": "That was a red herring.",
+        "pronunciation": "/red ˈherɪŋ/"
+      },
+      {
+        "word": "Devil's advocate",
+        "definition": "One who argues opposite view",
+        "example": "Let me play devil's advocate.",
+        "pronunciation": "/ˈdevlz ˈædvəkət/"
+      },
+      {
+        "word": "Elephant in the room",
+        "definition": "Obvious problem ignored",
+        "example": "Let's address the elephant in the room.",
+        "pronunciation": "/ˈelɪfənt ɪn ðə ruːm/"
+      },
+      {
+        "word": "Catch-22",
+        "definition": "No-win situation",
+        "example": "It's a classic catch-22.",
+        "pronunciation": "/kætʃ twentiˈtuː/"
+      },
+      {
+        "word": "Pandora's box",
+        "definition": "Source of many problems",
+        "example": "That opened Pandora's box.",
+        "pronunciation": "/pænˈdɔːrəz bɑːks/"
+      }
+    ]
+  }
+}

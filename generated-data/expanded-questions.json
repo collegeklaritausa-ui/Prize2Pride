@@ -1,0 +1,3317 @@
+[
+  {
+    "questionText": "_____ am happy.",
+    "correctAnswer": "I",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"I\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is my teacher.",
+    "correctAnswer": "She",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"She\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are students.",
+    "correctAnswer": "We",
+    "options": [
+      "I",
+      "We",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"We\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is a good book.",
+    "correctAnswer": "It",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "explanationEnglish": "Use \"It\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are my friends.",
+    "correctAnswer": "They",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "explanationEnglish": "Use \"They\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ am from America.",
+    "correctAnswer": "I",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "We"
+    ],
+    "explanationEnglish": "Use \"I\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is tall.",
+    "correctAnswer": "He",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "They"
+    ],
+    "explanationEnglish": "Use \"He\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are nice people.",
+    "correctAnswer": "You",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"You\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is my mother.",
+    "correctAnswer": "She",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"She\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are playing soccer.",
+    "correctAnswer": "They",
+    "options": [
+      "I",
+      "He",
+      "She",
+      "They"
+    ],
+    "explanationEnglish": "Use \"They\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ am a doctor.",
+    "correctAnswer": "I",
+    "options": [
+      "I",
+      "You",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"I\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is cold today.",
+    "correctAnswer": "It",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "They"
+    ],
+    "explanationEnglish": "Use \"It\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are brothers.",
+    "correctAnswer": "We",
+    "options": [
+      "I",
+      "We",
+      "He",
+      "She"
+    ],
+    "explanationEnglish": "Use \"We\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is my dog.",
+    "correctAnswer": "It",
+    "options": [
+      "He",
+      "She",
+      "It",
+      "I"
+    ],
+    "explanationEnglish": "Use \"It\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are in the classroom.",
+    "correctAnswer": "They",
+    "options": [
+      "I",
+      "He",
+      "She",
+      "They"
+    ],
+    "explanationEnglish": "Use \"They\" as the subject pronoun in this context.",
+    "category": "Subject Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She loves _____.",
+    "correctAnswer": "me",
+    "options": [
+      "I",
+      "me",
+      "my",
+      "mine"
+    ],
+    "explanationEnglish": "Use \"me\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I see _____.",
+    "correctAnswer": "him",
+    "options": [
+      "he",
+      "him",
+      "his",
+      "her"
+    ],
+    "explanationEnglish": "Use \"him\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "They called _____.",
+    "correctAnswer": "us",
+    "options": [
+      "we",
+      "us",
+      "our",
+      "ours"
+    ],
+    "explanationEnglish": "Use \"us\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "He gave _____ a gift.",
+    "correctAnswer": "her",
+    "options": [
+      "she",
+      "her",
+      "hers",
+      "him"
+    ],
+    "explanationEnglish": "Use \"her\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "Can you help _____?",
+    "correctAnswer": "them",
+    "options": [
+      "they",
+      "them",
+      "their",
+      "theirs"
+    ],
+    "explanationEnglish": "Use \"them\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She told _____ the story.",
+    "correctAnswer": "me",
+    "options": [
+      "I",
+      "me",
+      "my",
+      "mine"
+    ],
+    "explanationEnglish": "Use \"me\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "We visited _____ yesterday.",
+    "correctAnswer": "them",
+    "options": [
+      "they",
+      "them",
+      "their",
+      "theirs"
+    ],
+    "explanationEnglish": "Use \"them\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "Please give _____ the book.",
+    "correctAnswer": "him",
+    "options": [
+      "he",
+      "him",
+      "his",
+      "her"
+    ],
+    "explanationEnglish": "Use \"him\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I bought _____ for my sister.",
+    "correctAnswer": "it",
+    "options": [
+      "he",
+      "she",
+      "it",
+      "they"
+    ],
+    "explanationEnglish": "Use \"it\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She invited _____ to the party.",
+    "correctAnswer": "us",
+    "options": [
+      "we",
+      "us",
+      "our",
+      "ours"
+    ],
+    "explanationEnglish": "Use \"us\" as the object pronoun.",
+    "category": "Object Pronouns",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I _____ a student.",
+    "correctAnswer": "am",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"am\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She _____ happy.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "They _____ at home.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The cat _____ on the bed.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "We _____ friends.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "He _____ a teacher.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "You _____ very kind.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "It _____ a beautiful day.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I _____ not tired.",
+    "correctAnswer": "am",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"am\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The books _____ on the table.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "My name _____ John.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The children _____ in the garden.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"are\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "This _____ my house.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I _____ from New York.",
+    "correctAnswer": "am",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"am\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The weather _____ nice today.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "be"
+    ],
+    "explanationEnglish": "Use \"is\" with the subject in this sentence.",
+    "category": "Present Simple - Be",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I have _____ apple.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She is _____ doctor.",
+    "correctAnswer": "a",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"a\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ sun is bright.",
+    "correctAnswer": "The",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "-"
+    ],
+    "explanationEnglish": "Use \"The\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I need _____ umbrella.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "He is _____ honest man.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "This is _____ best movie.",
+    "correctAnswer": "the",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"the\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I saw _____ elephant at the zoo.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She plays _____ piano.",
+    "correctAnswer": "the",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"the\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "He is _____ university student.",
+    "correctAnswer": "a",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"a\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ moon is beautiful tonight.",
+    "correctAnswer": "The",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "-"
+    ],
+    "explanationEnglish": "Use \"The\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I want _____ orange.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She is _____ nurse.",
+    "correctAnswer": "a",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"a\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ Earth is round.",
+    "correctAnswer": "The",
+    "options": [
+      "A",
+      "An",
+      "The",
+      "-"
+    ],
+    "explanationEnglish": "Use \"The\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I have _____ hour to wait.",
+    "correctAnswer": "an",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"an\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "This is _____ first time.",
+    "correctAnswer": "the",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "-"
+    ],
+    "explanationEnglish": "Use \"the\" in this context.",
+    "category": "Articles (a/an/the)",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The book is _____ the table.",
+    "correctAnswer": "on",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"on\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She lives _____ Paris.",
+    "correctAnswer": "in",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"in\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I will meet you _____ 5 o'clock.",
+    "correctAnswer": "at",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"at\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The cat is _____ the box.",
+    "correctAnswer": "in",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"in\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The picture is _____ the wall.",
+    "correctAnswer": "on",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"on\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "We have a meeting _____ Monday.",
+    "correctAnswer": "on",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"on\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The dog is _____ the table.",
+    "correctAnswer": "under",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"under\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I was born _____ 1990.",
+    "correctAnswer": "in",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"in\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "She is _____ school.",
+    "correctAnswer": "at",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"at\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The keys are _____ my pocket.",
+    "correctAnswer": "in",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"in\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I'll see you _____ the morning.",
+    "correctAnswer": "in",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"in\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The bird is _____ the tree.",
+    "correctAnswer": "in",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"in\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "We arrived _____ the airport.",
+    "correctAnswer": "at",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"at\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "The lamp is _____ the desk.",
+    "correctAnswer": "on",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "under"
+    ],
+    "explanationEnglish": "Use \"on\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I go to bed _____ night.",
+    "correctAnswer": "at",
+    "options": [
+      "on",
+      "in",
+      "at",
+      "to"
+    ],
+    "explanationEnglish": "Use \"at\" in this context.",
+    "category": "Basic Prepositions",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is your name?",
+    "correctAnswer": "What",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"What\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ do you live?",
+    "correctAnswer": "Where",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"Where\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is your birthday?",
+    "correctAnswer": "When",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"When\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is that man?",
+    "correctAnswer": "Who",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"Who\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ are you late?",
+    "correctAnswer": "Why",
+    "options": [
+      "What",
+      "Where",
+      "Why",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"Why\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ do you spell your name?",
+    "correctAnswer": "How",
+    "options": [
+      "What",
+      "How",
+      "Why",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"How\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ old are you?",
+    "correctAnswer": "How",
+    "options": [
+      "What",
+      "How",
+      "Where",
+      "When"
+    ],
+    "explanationEnglish": "Use \"How\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ is your favorite color?",
+    "correctAnswer": "What",
+    "options": [
+      "What",
+      "Where",
+      "When",
+      "Who"
+    ],
+    "explanationEnglish": "Use \"What\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ many brothers do you have?",
+    "correctAnswer": "How",
+    "options": [
+      "What",
+      "How",
+      "Where",
+      "Which"
+    ],
+    "explanationEnglish": "Use \"How\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "_____ book is yours?",
+    "correctAnswer": "Which",
+    "options": [
+      "What",
+      "How",
+      "Where",
+      "Which"
+    ],
+    "explanationEnglish": "Use \"Which\" to form this type of question.",
+    "category": "Question Words",
+    "difficulty": "A1"
+  },
+  {
+    "questionText": "I _____ to school yesterday.",
+    "correctAnswer": "walked",
+    "options": [
+      "walk",
+      "walked",
+      "walking",
+      "walks"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ her homework last night.",
+    "correctAnswer": "finished",
+    "options": [
+      "finish",
+      "finished",
+      "finishing",
+      "finishes"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ soccer last weekend.",
+    "correctAnswer": "played",
+    "options": [
+      "play",
+      "played",
+      "playing",
+      "plays"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ the movie together.",
+    "correctAnswer": "watched",
+    "options": [
+      "watch",
+      "watched",
+      "watching",
+      "watches"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ to music all evening.",
+    "correctAnswer": "listened",
+    "options": [
+      "listen",
+      "listened",
+      "listening",
+      "listens"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ my room this morning.",
+    "correctAnswer": "cleaned",
+    "options": [
+      "clean",
+      "cleaned",
+      "cleaning",
+      "cleans"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ at the party.",
+    "correctAnswer": "danced",
+    "options": [
+      "dance",
+      "danced",
+      "dancing",
+      "dances"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ for the bus.",
+    "correctAnswer": "waited",
+    "options": [
+      "wait",
+      "waited",
+      "waiting",
+      "waits"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ the door.",
+    "correctAnswer": "opened",
+    "options": [
+      "open",
+      "opened",
+      "opening",
+      "opens"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ our vacation.",
+    "correctAnswer": "enjoyed",
+    "options": [
+      "enjoy",
+      "enjoyed",
+      "enjoying",
+      "enjoys"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ my friend yesterday.",
+    "correctAnswer": "called",
+    "options": [
+      "call",
+      "called",
+      "calling",
+      "calls"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ the cake.",
+    "correctAnswer": "baked",
+    "options": [
+      "bake",
+      "baked",
+      "baking",
+      "bakes"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ at the joke.",
+    "correctAnswer": "laughed",
+    "options": [
+      "laugh",
+      "laughed",
+      "laughing",
+      "laughs"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ hard for the exam.",
+    "correctAnswer": "studied",
+    "options": [
+      "study",
+      "studied",
+      "studying",
+      "studies"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ the game.",
+    "correctAnswer": "started",
+    "options": [
+      "start",
+      "started",
+      "starting",
+      "starts"
+    ],
+    "explanationEnglish": "Add \"-ed\" to regular verbs for past simple.",
+    "category": "Past Simple - Regular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ to New York last summer.",
+    "correctAnswer": "went",
+    "options": [
+      "go",
+      "went",
+      "gone",
+      "going"
+    ],
+    "explanationEnglish": "Irregular past tense: go → went",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ a delicious cake.",
+    "correctAnswer": "made",
+    "options": [
+      "make",
+      "made",
+      "making",
+      "makes"
+    ],
+    "explanationEnglish": "Irregular past tense: make → made",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ the answer immediately.",
+    "correctAnswer": "knew",
+    "options": [
+      "know",
+      "knew",
+      "known",
+      "knowing"
+    ],
+    "explanationEnglish": "Irregular past tense: know → knew",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ a new car last month.",
+    "correctAnswer": "bought",
+    "options": [
+      "buy",
+      "bought",
+      "buying",
+      "buys"
+    ],
+    "explanationEnglish": "Irregular past tense: buy → bought",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ breakfast at 8 AM.",
+    "correctAnswer": "ate",
+    "options": [
+      "eat",
+      "ate",
+      "eaten",
+      "eating"
+    ],
+    "explanationEnglish": "Irregular past tense: eat → ate",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ a strange noise.",
+    "correctAnswer": "heard",
+    "options": [
+      "hear",
+      "heard",
+      "hearing",
+      "hears"
+    ],
+    "explanationEnglish": "Irregular past tense: hear → heard",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ the book on the table.",
+    "correctAnswer": "put",
+    "options": [
+      "put",
+      "putted",
+      "putting",
+      "puts"
+    ],
+    "explanationEnglish": "Irregular past tense: put → put",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ home early.",
+    "correctAnswer": "came",
+    "options": [
+      "come",
+      "came",
+      "coming",
+      "comes"
+    ],
+    "explanationEnglish": "Irregular past tense: come → came",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ the race.",
+    "correctAnswer": "won",
+    "options": [
+      "win",
+      "won",
+      "winning",
+      "wins"
+    ],
+    "explanationEnglish": "Irregular past tense: win → won",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ a great movie.",
+    "correctAnswer": "saw",
+    "options": [
+      "see",
+      "saw",
+      "seen",
+      "seeing"
+    ],
+    "explanationEnglish": "Irregular past tense: see → saw",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ my keys.",
+    "correctAnswer": "lost",
+    "options": [
+      "lose",
+      "lost",
+      "losing",
+      "loses"
+    ],
+    "explanationEnglish": "Irregular past tense: lose → lost",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ me a letter.",
+    "correctAnswer": "wrote",
+    "options": [
+      "write",
+      "wrote",
+      "written",
+      "writing"
+    ],
+    "explanationEnglish": "Irregular past tense: write → wrote",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ to the party.",
+    "correctAnswer": "drove",
+    "options": [
+      "drive",
+      "drove",
+      "driven",
+      "driving"
+    ],
+    "explanationEnglish": "Irregular past tense: drive → drove",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ the ball.",
+    "correctAnswer": "threw",
+    "options": [
+      "throw",
+      "threw",
+      "thrown",
+      "throwing"
+    ],
+    "explanationEnglish": "Irregular past tense: throw → threw",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ the truth.",
+    "correctAnswer": "told",
+    "options": [
+      "tell",
+      "told",
+      "telling",
+      "tells"
+    ],
+    "explanationEnglish": "Irregular past tense: tell → told",
+    "category": "Past Simple - Irregular",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This book is _____ than that one.",
+    "correctAnswer": "more interesting",
+    "options": [
+      "interesting",
+      "more interesting",
+      "most interesting",
+      "interestinger"
+    ],
+    "explanationEnglish": "Use \"more interesting\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "My house is _____ than yours.",
+    "correctAnswer": "bigger",
+    "options": [
+      "big",
+      "bigger",
+      "biggest",
+      "more big"
+    ],
+    "explanationEnglish": "Use \"bigger\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She runs _____ than her brother.",
+    "correctAnswer": "faster",
+    "options": [
+      "fast",
+      "faster",
+      "fastest",
+      "more fast"
+    ],
+    "explanationEnglish": "Use \"faster\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This exam was _____ than the last one.",
+    "correctAnswer": "easier",
+    "options": [
+      "easy",
+      "easier",
+      "easiest",
+      "more easy"
+    ],
+    "explanationEnglish": "Use \"easier\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "Your idea is _____ than mine.",
+    "correctAnswer": "better",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "more good"
+    ],
+    "explanationEnglish": "Use \"better\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "The weather today is _____ than yesterday.",
+    "correctAnswer": "worse",
+    "options": [
+      "bad",
+      "worse",
+      "worst",
+      "more bad"
+    ],
+    "explanationEnglish": "Use \"worse\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This car is _____ than that one.",
+    "correctAnswer": "more expensive",
+    "options": [
+      "expensive",
+      "more expensive",
+      "most expensive",
+      "expensiver"
+    ],
+    "explanationEnglish": "Use \"more expensive\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He is _____ than his father.",
+    "correctAnswer": "taller",
+    "options": [
+      "tall",
+      "taller",
+      "tallest",
+      "more tall"
+    ],
+    "explanationEnglish": "Use \"taller\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This movie is _____ than the book.",
+    "correctAnswer": "more exciting",
+    "options": [
+      "exciting",
+      "more exciting",
+      "most exciting",
+      "excitinger"
+    ],
+    "explanationEnglish": "Use \"more exciting\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "My bag is _____ than yours.",
+    "correctAnswer": "heavier",
+    "options": [
+      "heavy",
+      "heavier",
+      "heaviest",
+      "more heavy"
+    ],
+    "explanationEnglish": "Use \"heavier\" for comparison.",
+    "category": "Comparatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This is the _____ movie I've ever seen.",
+    "correctAnswer": "best",
+    "options": [
+      "good",
+      "better",
+      "best",
+      "most good"
+    ],
+    "explanationEnglish": "Use \"best\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "Mount Everest is the _____ mountain.",
+    "correctAnswer": "highest",
+    "options": [
+      "high",
+      "higher",
+      "highest",
+      "most high"
+    ],
+    "explanationEnglish": "Use \"highest\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She is the _____ student in class.",
+    "correctAnswer": "smartest",
+    "options": [
+      "smart",
+      "smarter",
+      "smartest",
+      "most smart"
+    ],
+    "explanationEnglish": "Use \"smartest\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This is the _____ day of my life.",
+    "correctAnswer": "happiest",
+    "options": [
+      "happy",
+      "happier",
+      "happiest",
+      "most happy"
+    ],
+    "explanationEnglish": "Use \"happiest\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He is the _____ player on the team.",
+    "correctAnswer": "worst",
+    "options": [
+      "bad",
+      "worse",
+      "worst",
+      "most bad"
+    ],
+    "explanationEnglish": "Use \"worst\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This is the _____ book in the library.",
+    "correctAnswer": "oldest",
+    "options": [
+      "old",
+      "older",
+      "oldest",
+      "most old"
+    ],
+    "explanationEnglish": "Use \"oldest\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She has the _____ hair in the family.",
+    "correctAnswer": "longest",
+    "options": [
+      "long",
+      "longer",
+      "longest",
+      "most long"
+    ],
+    "explanationEnglish": "Use \"longest\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This is the _____ restaurant in town.",
+    "correctAnswer": "most expensive",
+    "options": [
+      "expensive",
+      "more expensive",
+      "most expensive",
+      "expensivest"
+    ],
+    "explanationEnglish": "Use \"most expensive\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He is the _____ person I know.",
+    "correctAnswer": "kindest",
+    "options": [
+      "kind",
+      "kinder",
+      "kindest",
+      "most kind"
+    ],
+    "explanationEnglish": "Use \"kindest\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "This is the _____ building in the city.",
+    "correctAnswer": "tallest",
+    "options": [
+      "tall",
+      "taller",
+      "tallest",
+      "most tall"
+    ],
+    "explanationEnglish": "Use \"tallest\" for superlative.",
+    "category": "Superlatives",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ go to the beach tomorrow.",
+    "correctAnswer": "will",
+    "options": [
+      "will",
+      "would",
+      "am",
+      "do"
+    ],
+    "explanationEnglish": "Use \"will\" for future tense.",
+    "category": "Future with Will",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ going to study medicine.",
+    "correctAnswer": "is",
+    "options": [
+      "is",
+      "are",
+      "will",
+      "does"
+    ],
+    "explanationEnglish": "Use \"is\" for future tense.",
+    "category": "Future with Going To",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ arrive at 6 PM.",
+    "correctAnswer": "will",
+    "options": [
+      "will",
+      "would",
+      "are",
+      "do"
+    ],
+    "explanationEnglish": "Use \"will\" for future tense.",
+    "category": "Future with Will",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ going to have a party.",
+    "correctAnswer": "are",
+    "options": [
+      "is",
+      "are",
+      "will",
+      "do"
+    ],
+    "explanationEnglish": "Use \"are\" for future tense.",
+    "category": "Future with Going To",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "He _____ call you later.",
+    "correctAnswer": "will",
+    "options": [
+      "will",
+      "would",
+      "is",
+      "does"
+    ],
+    "explanationEnglish": "Use \"will\" for future tense.",
+    "category": "Future with Will",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ going to learn Spanish.",
+    "correctAnswer": "am",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "will"
+    ],
+    "explanationEnglish": "Use \"am\" for future tense.",
+    "category": "Future with Going To",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "It _____ rain tomorrow.",
+    "correctAnswer": "will",
+    "options": [
+      "will",
+      "would",
+      "is",
+      "does"
+    ],
+    "explanationEnglish": "Use \"will\" for future tense.",
+    "category": "Future with Will",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "She _____ going to visit her parents.",
+    "correctAnswer": "is",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "will"
+    ],
+    "explanationEnglish": "Use \"is\" for future tense.",
+    "category": "Future with Going To",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "We _____ not be late.",
+    "correctAnswer": "will",
+    "options": [
+      "will",
+      "would",
+      "are",
+      "do"
+    ],
+    "explanationEnglish": "Use \"will\" for future tense.",
+    "category": "Future with Will",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "They _____ going to move next month.",
+    "correctAnswer": "are",
+    "options": [
+      "am",
+      "is",
+      "are",
+      "will"
+    ],
+    "explanationEnglish": "Use \"are\" for future tense.",
+    "category": "Future with Going To",
+    "difficulty": "A2"
+  },
+  {
+    "questionText": "I _____ never been to Japan.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "am",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "She _____ already finished her homework.",
+    "correctAnswer": "has",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "They _____ lived here for ten years.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "_____ you ever eaten sushi?",
+    "correctAnswer": "Have",
+    "options": [
+      "Have",
+      "Has",
+      "Did",
+      "Are"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "I _____ just had my lunch.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "am",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "He _____ worked here since 2015.",
+    "correctAnswer": "has",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "We _____ not seen that movie yet.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "She _____ been to Paris three times.",
+    "correctAnswer": "has",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "_____ he finished the report?",
+    "correctAnswer": "Has",
+    "options": [
+      "Have",
+      "Has",
+      "Did",
+      "Is"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "I _____ known him for years.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "am",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "They _____ just arrived.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "She _____ lost her keys.",
+    "correctAnswer": "has",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "We _____ already eaten dinner.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "He _____ never tried skiing.",
+    "correctAnswer": "has",
+    "options": [
+      "have",
+      "has",
+      "is",
+      "was"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "_____ they ever visited London?",
+    "correctAnswer": "Have",
+    "options": [
+      "Have",
+      "Has",
+      "Did",
+      "Are"
+    ],
+    "explanationEnglish": "Present perfect: have/has + past participle.",
+    "category": "Present Perfect Simple",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If it _____, we will stay home.",
+    "correctAnswer": "rains",
+    "options": [
+      "rains",
+      "will rain",
+      "rained",
+      "rain"
+    ],
+    "explanationEnglish": "First Conditional: Use \"rains\" in this context.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If you study hard, you _____ the exam.",
+    "correctAnswer": "will pass",
+    "options": [
+      "will pass",
+      "pass",
+      "passed",
+      "passing"
+    ],
+    "explanationEnglish": "First Conditional: Use \"will pass\" in this context.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "She _____ angry if you are late.",
+    "correctAnswer": "will be",
+    "options": [
+      "will be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explanationEnglish": "First Conditional: Use \"will be\" in this context.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If I _____ time, I will call you.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "will have",
+      "had",
+      "having"
+    ],
+    "explanationEnglish": "First Conditional: Use \"have\" in this context.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If I _____ rich, I would travel the world.",
+    "correctAnswer": "were",
+    "options": [
+      "were",
+      "am",
+      "will be",
+      "would be"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"were\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If she _____ here, she would help us.",
+    "correctAnswer": "were",
+    "options": [
+      "were",
+      "is",
+      "will be",
+      "would be"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"were\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "I _____ buy a house if I had more money.",
+    "correctAnswer": "would",
+    "options": [
+      "would",
+      "will",
+      "could",
+      "should"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"would\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If they _____ harder, they would succeed.",
+    "correctAnswer": "worked",
+    "options": [
+      "worked",
+      "work",
+      "will work",
+      "would work"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"worked\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "What _____ you do if you won the lottery?",
+    "correctAnswer": "would",
+    "options": [
+      "would",
+      "will",
+      "do",
+      "did"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"would\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If I _____ you, I would accept the offer.",
+    "correctAnswer": "were",
+    "options": [
+      "were",
+      "was",
+      "am",
+      "be"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"were\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "We _____ go to the beach if the weather is nice.",
+    "correctAnswer": "will",
+    "options": [
+      "will",
+      "would",
+      "are",
+      "do"
+    ],
+    "explanationEnglish": "First Conditional: Use \"will\" in this context.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If he _____ earlier, he wouldn't be late.",
+    "correctAnswer": "left",
+    "options": [
+      "left",
+      "leaves",
+      "will leave",
+      "would leave"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"left\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If I _____ a car, I would drive to work.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "will have",
+      "would have"
+    ],
+    "explanationEnglish": "Second Conditional: Use \"had\" in this context.",
+    "category": "Second Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "She will be happy if you _____ her.",
+    "correctAnswer": "visit",
+    "options": [
+      "visit",
+      "will visit",
+      "visited",
+      "visiting"
+    ],
+    "explanationEnglish": "First Conditional: Use \"visit\" in this context.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "If we _____ now, we will catch the train.",
+    "correctAnswer": "leave",
+    "options": [
+      "leave",
+      "will leave",
+      "left",
+      "leaving"
+    ],
+    "explanationEnglish": "First Conditional: Use \"leave\" in this context.",
+    "category": "First Conditional",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The book _____ written by Shakespeare.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Past",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "English _____ spoken in many countries.",
+    "correctAnswer": "is",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The cars _____ made in Japan.",
+    "correctAnswer": "are",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The letter _____ sent yesterday.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "has"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Past",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The windows _____ cleaned every week.",
+    "correctAnswer": "are",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The cake _____ baked by my mother.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Past",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The news _____ announced this morning.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Past",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "These products _____ sold worldwide.",
+    "correctAnswer": "are",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The building _____ constructed in 1990.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Past",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "The rules _____ followed by everyone.",
+    "correctAnswer": "are",
+    "options": [
+      "is",
+      "are",
+      "was",
+      "be"
+    ],
+    "explanationEnglish": "Passive voice: be + past participle.",
+    "category": "Passive Voice - Present",
+    "difficulty": "B1"
+  },
+  {
+    "questionText": "By the time I arrived, she _____ already left.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "I _____ never seen such a beautiful sunset before.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "was"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "They _____ finished dinner when we called.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "were"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She realized she _____ forgotten her keys.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If I _____ known, I would have helped.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "would"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He told me he _____ been to Paris.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "We _____ just sat down when the phone rang.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "were"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She _____ already eaten when I arrived.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "They _____ never met before that day.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "were"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "I _____ been waiting for an hour.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "has",
+      "was"
+    ],
+    "explanationEnglish": "Past perfect: had + past participle.",
+    "category": "Past Perfect",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If I had studied harder, I _____ passed the exam.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She _____ come if you had invited her.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If they _____ arrived earlier, they would have met him.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "would",
+      "would have"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "I _____ told you if I had known.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If we _____ taken a taxi, we would have arrived on time.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "would",
+      "would have"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He _____ been happier if he had won.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If she _____ seen the sign, she wouldn't have parked there.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "would",
+      "would have"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "They _____ helped if you had asked.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "If I _____ known about the party, I would have come.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "would",
+      "would have"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "We _____ missed the flight if we had left later.",
+    "correctAnswer": "would have",
+    "options": [
+      "would have",
+      "will have",
+      "had",
+      "would"
+    ],
+    "explanationEnglish": "Third conditional: If + past perfect, would have + past participle.",
+    "category": "Third Conditional",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She said she _____ tired.",
+    "correctAnswer": "was",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "been"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He told me he _____ call me later.",
+    "correctAnswer": "would",
+    "options": [
+      "will",
+      "would",
+      "can",
+      "could"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "They said they _____ been waiting for an hour.",
+    "correctAnswer": "had",
+    "options": [
+      "have",
+      "had",
+      "has",
+      "were"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She asked me where I _____.",
+    "correctAnswer": "lived",
+    "options": [
+      "live",
+      "lived",
+      "living",
+      "lives"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He asked if I _____ help him.",
+    "correctAnswer": "could",
+    "options": [
+      "can",
+      "could",
+      "will",
+      "would"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She said she _____ going to the party.",
+    "correctAnswer": "was",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "been"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He told me he _____ finished the work.",
+    "correctAnswer": "had",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "They asked if we _____ join them.",
+    "correctAnswer": "would",
+    "options": [
+      "will",
+      "would",
+      "can",
+      "could"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "She said she _____ never seen that movie.",
+    "correctAnswer": "had",
+    "options": [
+      "has",
+      "had",
+      "have",
+      "was"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "He asked me what I _____ doing.",
+    "correctAnswer": "was",
+    "options": [
+      "am",
+      "was",
+      "is",
+      "were"
+    ],
+    "explanationEnglish": "In reported speech, tenses shift back.",
+    "category": "Reported Speech - Statements",
+    "difficulty": "B2"
+  },
+  {
+    "questionText": "Not only _____ she intelligent, but she is also hardworking.",
+    "correctAnswer": "is",
+    "options": [
+      "is",
+      "does",
+      "has",
+      "was"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Rarely _____ I seen such dedication.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "do",
+      "did"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Never _____ I experienced such kindness.",
+    "correctAnswer": "have",
+    "options": [
+      "have",
+      "has",
+      "do",
+      "did"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Seldom _____ she complain about anything.",
+    "correctAnswer": "does",
+    "options": [
+      "does",
+      "did",
+      "has",
+      "is"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Little _____ he know what awaited him.",
+    "correctAnswer": "did",
+    "options": [
+      "did",
+      "does",
+      "had",
+      "was"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Only then _____ I realize my mistake.",
+    "correctAnswer": "did",
+    "options": [
+      "did",
+      "do",
+      "had",
+      "was"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Hardly _____ I finished when the phone rang.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "did",
+      "was"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "No sooner _____ we arrived than it started raining.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "have",
+      "did",
+      "were"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Under no circumstances _____ you tell anyone.",
+    "correctAnswer": "should",
+    "options": [
+      "should",
+      "would",
+      "could",
+      "might"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "Not until later _____ I understand the truth.",
+    "correctAnswer": "did",
+    "options": [
+      "did",
+      "do",
+      "had",
+      "was"
+    ],
+    "explanationEnglish": "Inversion: auxiliary + subject after negative/restrictive adverbs.",
+    "category": "Inversion",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "I suggest that he _____ more careful.",
+    "correctAnswer": "be",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "It is essential that she _____ on time.",
+    "correctAnswer": "arrive",
+    "options": [
+      "arrive",
+      "arrives",
+      "arrived",
+      "arriving"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "The doctor recommended that he _____ smoking.",
+    "correctAnswer": "stop",
+    "options": [
+      "stop",
+      "stops",
+      "stopped",
+      "stopping"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "If I _____ you, I would accept the offer.",
+    "correctAnswer": "were",
+    "options": [
+      "were",
+      "was",
+      "am",
+      "be"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "I wish I _____ speak French fluently.",
+    "correctAnswer": "could",
+    "options": [
+      "could",
+      "can",
+      "would",
+      "will"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "It is important that everyone _____ present.",
+    "correctAnswer": "be",
+    "options": [
+      "be",
+      "is",
+      "are",
+      "being"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "The manager insisted that the report _____ submitted today.",
+    "correctAnswer": "be",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "I demand that he _____ an apology.",
+    "correctAnswer": "make",
+    "options": [
+      "make",
+      "makes",
+      "made",
+      "making"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "It is vital that the project _____ completed on time.",
+    "correctAnswer": "be",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "She requested that the meeting _____ postponed.",
+    "correctAnswer": "be",
+    "options": [
+      "be",
+      "is",
+      "was",
+      "being"
+    ],
+    "explanationEnglish": "Subjunctive: base form after verbs of suggestion/demand.",
+    "category": "Subjunctive Mood",
+    "difficulty": "C1"
+  },
+  {
+    "questionText": "The project is still up in the _____.",
+    "correctAnswer": "air",
+    "options": [
+      "air",
+      "sky",
+      "clouds",
+      "wind"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"air\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "She has a chip on her _____.",
+    "correctAnswer": "shoulder",
+    "options": [
+      "shoulder",
+      "arm",
+      "back",
+      "head"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"shoulder\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "Let's not beat around the _____.",
+    "correctAnswer": "bush",
+    "options": [
+      "bush",
+      "tree",
+      "garden",
+      "point"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"bush\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "He's barking up the wrong _____.",
+    "correctAnswer": "tree",
+    "options": [
+      "tree",
+      "path",
+      "road",
+      "way"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"tree\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "That's the last _____!",
+    "correctAnswer": "straw",
+    "options": [
+      "straw",
+      "thing",
+      "drop",
+      "bit"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"straw\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "She's burning the candle at both _____.",
+    "correctAnswer": "ends",
+    "options": [
+      "ends",
+      "sides",
+      "ways",
+      "points"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"ends\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "The news came as a bolt from the _____.",
+    "correctAnswer": "blue",
+    "options": [
+      "blue",
+      "sky",
+      "dark",
+      "clear"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"blue\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "His argument doesn't hold _____.",
+    "correctAnswer": "water",
+    "options": [
+      "water",
+      "ground",
+      "weight",
+      "fire"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"water\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "Let's call it a _____.",
+    "correctAnswer": "day",
+    "options": [
+      "day",
+      "night",
+      "time",
+      "break"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"day\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "She's got her head in the _____.",
+    "correctAnswer": "clouds",
+    "options": [
+      "clouds",
+      "sky",
+      "air",
+      "sand"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"clouds\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "He let the cat out of the _____.",
+    "correctAnswer": "bag",
+    "options": [
+      "bag",
+      "box",
+      "house",
+      "room"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"bag\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "It's raining cats and _____.",
+    "correctAnswer": "dogs",
+    "options": [
+      "dogs",
+      "birds",
+      "fish",
+      "mice"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"dogs\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "She's walking on thin _____.",
+    "correctAnswer": "ice",
+    "options": [
+      "ice",
+      "water",
+      "air",
+      "ground"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"ice\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "He hit the nail on the _____.",
+    "correctAnswer": "head",
+    "options": [
+      "head",
+      "point",
+      "spot",
+      "mark"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"head\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "That's a piece of _____.",
+    "correctAnswer": "cake",
+    "options": [
+      "cake",
+      "pie",
+      "bread",
+      "work"
+    ],
+    "explanationEnglish": "Idiomatic expression: complete with \"cake\".",
+    "category": "Native-like Expressions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "I _____ have done it, but I chose not to.",
+    "correctAnswer": "could",
+    "options": [
+      "could",
+      "might",
+      "would",
+      "should"
+    ],
+    "explanationEnglish": "Advanced usage: \"could\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "She _____ have arrived by now.",
+    "correctAnswer": "should",
+    "options": [
+      "should",
+      "would",
+      "could",
+      "might"
+    ],
+    "explanationEnglish": "Advanced usage: \"should\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "He _____ not have said that.",
+    "correctAnswer": "ought",
+    "options": [
+      "ought",
+      "should",
+      "would",
+      "could"
+    ],
+    "explanationEnglish": "Advanced usage: \"ought\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "The data _____ that the hypothesis is correct.",
+    "correctAnswer": "suggest",
+    "options": [
+      "suggest",
+      "suggests",
+      "suggested",
+      "suggesting"
+    ],
+    "explanationEnglish": "Advanced usage: \"suggest\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "Neither the students nor the teacher _____ aware.",
+    "correctAnswer": "was",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "are"
+    ],
+    "explanationEnglish": "Advanced usage: \"was\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "He _____ have been more helpful if he'd tried.",
+    "correctAnswer": "couldn't",
+    "options": [
+      "couldn't",
+      "wouldn't",
+      "shouldn't",
+      "mightn't"
+    ],
+    "explanationEnglish": "Advanced usage: \"couldn't\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "The phenomenon _____ yet to be fully understood.",
+    "correctAnswer": "has",
+    "options": [
+      "has",
+      "is",
+      "was",
+      "had"
+    ],
+    "explanationEnglish": "Advanced usage: \"has\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "Be that as it _____, we must proceed.",
+    "correctAnswer": "may",
+    "options": [
+      "may",
+      "might",
+      "can",
+      "could"
+    ],
+    "explanationEnglish": "Advanced usage: \"may\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "Scarcely _____ he arrived when the meeting began.",
+    "correctAnswer": "had",
+    "options": [
+      "had",
+      "has",
+      "did",
+      "was"
+    ],
+    "explanationEnglish": "Advanced usage: \"had\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  },
+  {
+    "questionText": "The committee, all of _____ members were present, voted.",
+    "correctAnswer": "whose",
+    "options": [
+      "whose",
+      "which",
+      "whom",
+      "that"
+    ],
+    "explanationEnglish": "Advanced usage: \"whose\" is the correct choice.",
+    "category": "Subtle Grammar Distinctions",
+    "difficulty": "C2"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "feedbackType": "correct",
+    "messageEnglish": "Excellent! That's absolutely correct!",
+    "messageArabic": "ممتاز! هذا صحيح تماماً!",
+    "messageFrench": "Excellent! C'est absolument correct!",
+    "messageSpanish": "¡Excelente! ¡Eso es absolutamente correcto!",
+    "messageGerman": "Ausgezeichnet! Das ist absolut richtig!",
+    "messageChinese": "太棒了！完全正确！",
+    "avatarId": 1
+  },
+  {
+    "feedbackType": "correct",
+    "messageEnglish": "Perfect! You're really getting the hang of this!",
+    "messageArabic": "مثالي! أنت حقاً تتقن هذا!",
+    "messageFrench": "Parfait! Tu maîtrises vraiment ça!",
+    "messageSpanish": "¡Perfecto! ¡Realmente lo estás dominando!",
+    "messageGerman": "Perfekt! Du bekommst das wirklich gut hin!",
+    "messageChinese": "完美！你真的掌握了！",
+    "avatarId": 2
+  },
+  {
+    "feedbackType": "correct",
+    "messageEnglish": "Great job! Your English is improving!",
+    "messageArabic": "عمل رائع! لغتك الإنجليزية تتحسن!",
+    "messageFrench": "Bon travail! Ton anglais s'améliore!",
+    "messageSpanish": "¡Buen trabajo! ¡Tu inglés está mejorando!",
+    "messageGerman": "Tolle Arbeit! Dein Englisch verbessert sich!",
+    "messageChinese": "做得好！你的英语在进步！",
+    "avatarId": 3
+  },
+  {
+    "feedbackType": "correct",
+    "messageEnglish": "Wonderful! You nailed it!",
+    "messageArabic": "رائع! لقد أصبت!",
+    "messageFrench": "Merveilleux! Tu as réussi!",
+    "messageSpanish": "¡Maravilloso! ¡Lo clavaste!",
+    "messageGerman": "Wunderbar! Du hast es geschafft!",
+    "messageChinese": "太好了！你做到了！",
+    "avatarId": 4
+  },
+  {
+    "feedbackType": "correct",
+    "messageEnglish": "Brilliant! Keep up the excellent work!",
+    "messageArabic": "رائع! استمر في العمل الممتاز!",
+    "messageFrench": "Brillant! Continue ton excellent travail!",
+    "messageSpanish": "¡Brillante! ¡Sigue con el excelente trabajo!",
+    "messageGerman": "Brillant! Mach weiter so!",
+    "messageChinese": "太棒了！继续保持！",
+    "avatarId": 5
+  },
+  {
+    "feedbackType": "incorrect",
+    "messageEnglish": "Not quite, but don't give up! Try again.",
+    "messageArabic": "ليس تماماً، لكن لا تستسلم! حاول مرة أخرى.",
+    "messageFrench": "Pas tout à fait, mais n'abandonne pas! Réessaie.",
+    "messageSpanish": "No del todo, ¡pero no te rindas! Inténtalo de nuevo.",
+    "messageGerman": "Nicht ganz, aber gib nicht auf! Versuch es nochmal.",
+    "messageChinese": "不太对，但别放弃！再试一次。",
+    "avatarId": 1
+  },
+  {
+    "feedbackType": "incorrect",
+    "messageEnglish": "Almost there! Let's review this together.",
+    "messageArabic": "تقريباً! دعنا نراجع هذا معاً.",
+    "messageFrench": "Presque! Révisons ça ensemble.",
+    "messageSpanish": "¡Casi! Revisemos esto juntos.",
+    "messageGerman": "Fast! Lass uns das zusammen durchgehen.",
+    "messageChinese": "差一点！让我们一起复习。",
+    "avatarId": 2
+  },
+  {
+    "feedbackType": "incorrect",
+    "messageEnglish": "Good try! The correct answer is different.",
+    "messageArabic": "محاولة جيدة! الإجابة الصحيحة مختلفة.",
+    "messageFrench": "Bon essai! La bonne réponse est différente.",
+    "messageSpanish": "¡Buen intento! La respuesta correcta es diferente.",
+    "messageGerman": "Guter Versuch! Die richtige Antwort ist anders.",
+    "messageChinese": "不错的尝试！正确答案不同。",
+    "avatarId": 3
+  },
+  {
+    "feedbackType": "incorrect",
+    "messageEnglish": "That's not it, but you're learning!",
+    "messageArabic": "ليست هذه، لكنك تتعلم!",
+    "messageFrench": "Ce n'est pas ça, mais tu apprends!",
+    "messageSpanish": "¡Eso no es, pero estás aprendiendo!",
+    "messageGerman": "Das ist es nicht, aber du lernst!",
+    "messageChinese": "不是这个，但你在学习！",
+    "avatarId": 4
+  },
+  {
+    "feedbackType": "incorrect",
+    "messageEnglish": "Oops! Let me explain the correct answer.",
+    "messageArabic": "عفواً! دعني أشرح الإجابة الصحيحة.",
+    "messageFrench": "Oups! Laisse-moi expliquer la bonne réponse.",
+    "messageSpanish": "¡Ups! Déjame explicar la respuesta correcta.",
+    "messageGerman": "Hoppla! Lass mich die richtige Antwort erklären.",
+    "messageChinese": "哎呀！让我解释正确答案。",
+    "avatarId": 5
+  }
+]

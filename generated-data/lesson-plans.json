@@ -1,0 +1,212 @@
+{
+  "A1": {
+    "duration": "30 minutes",
+    "structure": [
+      {
+        "phase": "Warm-up",
+        "duration": "5 min",
+        "activity": "Review previous vocabulary"
+      },
+      {
+        "phase": "Presentation",
+        "duration": "10 min",
+        "activity": "Introduce new grammar/vocabulary"
+      },
+      {
+        "phase": "Practice",
+        "duration": "10 min",
+        "activity": "Guided exercises with feedback"
+      },
+      {
+        "phase": "Production",
+        "duration": "5 min",
+        "activity": "Simple speaking task"
+      }
+    ],
+    "materials": [
+      "Flashcards",
+      "Audio clips",
+      "Simple worksheets"
+    ],
+    "objectives": [
+      "Recognize new vocabulary",
+      "Use basic structures",
+      "Respond to simple questions"
+    ]
+  },
+  "A2": {
+    "duration": "45 minutes",
+    "structure": [
+      {
+        "phase": "Warm-up",
+        "duration": "5 min",
+        "activity": "Quick review game"
+      },
+      {
+        "phase": "Presentation",
+        "duration": "15 min",
+        "activity": "Context-based introduction"
+      },
+      {
+        "phase": "Practice",
+        "duration": "15 min",
+        "activity": "Pair work exercises"
+      },
+      {
+        "phase": "Production",
+        "duration": "10 min",
+        "activity": "Role-play activity"
+      }
+    ],
+    "materials": [
+      "Dialogue scripts",
+      "Picture prompts",
+      "Gap-fill exercises"
+    ],
+    "objectives": [
+      "Use past tense correctly",
+      "Make comparisons",
+      "Handle everyday situations"
+    ]
+  },
+  "B1": {
+    "duration": "60 minutes",
+    "structure": [
+      {
+        "phase": "Lead-in",
+        "duration": "10 min",
+        "activity": "Discussion and brainstorming"
+      },
+      {
+        "phase": "Presentation",
+        "duration": "15 min",
+        "activity": "Discovery-based learning"
+      },
+      {
+        "phase": "Practice",
+        "duration": "20 min",
+        "activity": "Communicative activities"
+      },
+      {
+        "phase": "Production",
+        "duration": "15 min",
+        "activity": "Extended speaking/writing task"
+      }
+    ],
+    "materials": [
+      "Authentic texts",
+      "Audio/video clips",
+      "Discussion cards"
+    ],
+    "objectives": [
+      "Express opinions",
+      "Use conditionals",
+      "Handle unexpected situations"
+    ]
+  },
+  "B2": {
+    "duration": "75 minutes",
+    "structure": [
+      {
+        "phase": "Engagement",
+        "duration": "10 min",
+        "activity": "Thought-provoking question"
+      },
+      {
+        "phase": "Study",
+        "duration": "20 min",
+        "activity": "Analysis of complex structures"
+      },
+      {
+        "phase": "Activation",
+        "duration": "30 min",
+        "activity": "Debate or presentation"
+      },
+      {
+        "phase": "Feedback",
+        "duration": "15 min",
+        "activity": "Peer and teacher feedback"
+      }
+    ],
+    "materials": [
+      "News articles",
+      "Academic texts",
+      "Presentation tools"
+    ],
+    "objectives": [
+      "Argue a position",
+      "Use advanced grammar",
+      "Produce extended discourse"
+    ]
+  },
+  "C1": {
+    "duration": "90 minutes",
+    "structure": [
+      {
+        "phase": "Critical thinking",
+        "duration": "15 min",
+        "activity": "Analysis of complex issue"
+      },
+      {
+        "phase": "Language focus",
+        "duration": "20 min",
+        "activity": "Nuanced language exploration"
+      },
+      {
+        "phase": "Application",
+        "duration": "40 min",
+        "activity": "Academic/professional task"
+      },
+      {
+        "phase": "Reflection",
+        "duration": "15 min",
+        "activity": "Self-assessment and goal setting"
+      }
+    ],
+    "materials": [
+      "Research papers",
+      "Professional documents",
+      "Case studies"
+    ],
+    "objectives": [
+      "Produce academic writing",
+      "Handle complex negotiations",
+      "Analyze subtle meanings"
+    ]
+  },
+  "C2": {
+    "duration": "120 minutes",
+    "structure": [
+      {
+        "phase": "Immersion",
+        "duration": "20 min",
+        "activity": "Native-level content engagement"
+      },
+      {
+        "phase": "Analysis",
+        "duration": "30 min",
+        "activity": "Stylistic and cultural analysis"
+      },
+      {
+        "phase": "Creation",
+        "duration": "50 min",
+        "activity": "Original content production"
+      },
+      {
+        "phase": "Critique",
+        "duration": "20 min",
+        "activity": "Peer review and refinement"
+      }
+    ],
+    "materials": [
+      "Literary texts",
+      "Specialized documents",
+      "Multimedia resources"
+    ],
+    "objectives": [
+      "Achieve native-like expression",
+      "Master stylistic variation",
+      "Handle any communicative situation"
+    ]
+  }
+}

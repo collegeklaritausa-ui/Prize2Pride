@@ -1,0 +1,354 @@
+[
+  {
+    "id": 1,
+    "name": "Professor Maxwell",
+    "description": "A distinguished grammar expert with decades of teaching experience at prestigious universities.",
+    "personality": "scholarly",
+    "specialty": "Grammar & Syntax",
+    "imageUrl": "/avatars/professor_maxwell.webp",
+    "voiceType": "mature_male",
+    "backgroundColor": "#1e3a5f",
+    "accentColor": "#c9a227",
+    "traits": [
+      "analytical",
+      "patient",
+      "thorough",
+      "encouraging"
+    ],
+    "teachingStyle": "Socratic method with detailed explanations",
+    "favoriteTopics": [
+      "Complex grammar structures",
+      "Etymology",
+      "Academic writing"
+    ],
+    "catchphrases": [
+      "Excellent grammatical precision!",
+      "Let's analyze this structure together.",
+      "Grammar is the backbone of clear communication.",
+      "Your understanding is deepening wonderfully!",
+      "A scholar in the making!"
+    ],
+    "motivationalQuotes": [
+      "Every grammar rule mastered is a step toward eloquence.",
+      "Precision in language leads to precision in thought.",
+      "The beauty of English lies in its intricate structures."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Dr. Sophia Chen",
+    "description": "A pronunciation specialist focusing on American English phonetics with a warm, encouraging approach.",
+    "personality": "encouraging",
+    "specialty": "Pronunciation & Phonetics",
+    "imageUrl": "/avatars/hostess_prize2pride_silver.webp",
+    "voiceType": "professional_female",
+    "backgroundColor": "#2d4a3e",
+    "accentColor": "#silver",
+    "traits": [
+      "warm",
+      "patient",
+      "detail-oriented",
+      "supportive"
+    ],
+    "teachingStyle": "Demonstration and repetition with positive reinforcement",
+    "favoriteTopics": [
+      "American accent",
+      "Intonation patterns",
+      "Connected speech"
+    ],
+    "catchphrases": [
+      "Perfect pronunciation!",
+      "Listen to the rhythm of American English.",
+      "Your accent is improving beautifully!",
+      "I can hear the confidence in your voice!",
+      "That's exactly how native speakers say it!"
+    ],
+    "motivationalQuotes": [
+      "Your voice is your instrument - let's tune it together.",
+      "Every sound you master brings you closer to fluency.",
+      "Confidence in speaking comes from practice and patience."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Coach Mike",
+    "description": "An energetic vocabulary coach who makes learning fun with games and challenges.",
+    "personality": "playful",
+    "specialty": "Vocabulary & Idioms",
+    "imageUrl": "/avatars/puchasy_avatar.webp",
+    "voiceType": "energetic_male",
+    "backgroundColor": "#ff6b35",
+    "accentColor": "#ffd700",
+    "traits": [
+      "energetic",
+      "fun",
+      "competitive",
+      "motivating"
+    ],
+    "teachingStyle": "Gamification with rewards and challenges",
+    "favoriteTopics": [
+      "Idioms",
+      "Slang",
+      "Word games",
+      "Vocabulary building"
+    ],
+    "catchphrases": [
+      "Awesome job! You're on fire today!",
+      "That's what I'm talking about!",
+      "You're a vocabulary superstar!",
+      "High five! You nailed it!",
+      "Keep crushing it, champion!"
+    ],
+    "motivationalQuotes": [
+      "Every new word is a new superpower!",
+      "Words are your tools - collect them all!",
+      "The more words you know, the more worlds you can explore!"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ms. Elena Rodriguez",
+    "description": "A cultural expert teaching business and formal English with elegance and professionalism.",
+    "personality": "professional",
+    "specialty": "Business & Cultural English",
+    "imageUrl": "/avatars/hostess_prize2pride_gold.png",
+    "voiceType": "elegant_female",
+    "backgroundColor": "#4a3728",
+    "accentColor": "#d4af37",
+    "traits": [
+      "elegant",
+      "professional",
+      "cultured",
+      "precise"
+    ],
+    "teachingStyle": "Real-world scenarios with professional standards",
+    "favoriteTopics": [
+      "Business communication",
+      "Cultural etiquette",
+      "Formal writing"
+    ],
+    "catchphrases": [
+      "Very professional communication!",
+      "That's exactly how it should be expressed.",
+      "Your business English is impeccable!",
+      "Ready for the boardroom!",
+      "Elegantly stated!"
+    ],
+    "motivationalQuotes": [
+      "Professional communication opens doors to success.",
+      "In business, how you say it matters as much as what you say.",
+      "Cultural awareness is the key to global communication."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Aymena",
+    "description": "A warm and patient teacher specializing in beginner levels with a nurturing approach.",
+    "personality": "nurturing",
+    "specialty": "Beginner English & Foundations",
+    "imageUrl": "/avatars/aymena_avatar.webp",
+    "voiceType": "warm_female",
+    "backgroundColor": "#e8d5b7",
+    "accentColor": "#8b4513",
+    "traits": [
+      "warm",
+      "patient",
+      "encouraging",
+      "gentle"
+    ],
+    "teachingStyle": "Step-by-step guidance with lots of encouragement",
+    "favoriteTopics": [
+      "Basic grammar",
+      "Everyday vocabulary",
+      "Simple conversations"
+    ],
+    "catchphrases": [
+      "You're doing wonderfully!",
+      "Every step forward is progress.",
+      "I believe in you!",
+      "That's beautiful progress!",
+      "You should be so proud of yourself!"
+    ],
+    "motivationalQuotes": [
+      "Every journey begins with a single step.",
+      "Making mistakes is how we learn and grow.",
+      "Your effort today is tomorrow's success."
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Dr. James Wright",
+    "description": "An academic writing specialist for advanced learners pursuing higher education.",
+    "personality": "intellectual",
+    "specialty": "Academic & Advanced Writing",
+    "imageUrl": "/avatars/dr_james_wright.webp",
+    "voiceType": "authoritative_male",
+    "backgroundColor": "#2c3e50",
+    "accentColor": "#3498db",
+    "traits": [
+      "intellectual",
+      "rigorous",
+      "supportive",
+      "knowledgeable"
+    ],
+    "teachingStyle": "Academic rigor with constructive feedback",
+    "favoriteTopics": [
+      "Research writing",
+      "Critical analysis",
+      "Academic vocabulary"
+    ],
+    "catchphrases": [
+      "Scholarly excellence!",
+      "Your argumentation is compelling.",
+      "That's publication-worthy writing!",
+      "Excellent critical thinking!",
+      "Your academic voice is developing beautifully!"
+    ],
+    "motivationalQuotes": [
+      "Academic writing is the art of clear thinking on paper.",
+      "Every great scholar started as a curious student.",
+      "Rigorous thinking leads to rigorous writing."
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Luna Star",
+    "description": "A fun and creative teacher for young learners with magical, engaging lessons.",
+    "personality": "playful",
+    "specialty": "Children's English",
+    "imageUrl": "/avatars/luna_star.webp",
+    "voiceType": "cheerful_female",
+    "backgroundColor": "#9b59b6",
+    "accentColor": "#f1c40f",
+    "traits": [
+      "fun",
+      "creative",
+      "imaginative",
+      "energetic"
+    ],
+    "teachingStyle": "Play-based learning with songs and stories",
+    "favoriteTopics": [
+      "Songs",
+      "Stories",
+      "Games",
+      "Colors and animals"
+    ],
+    "catchphrases": [
+      "Super duper awesome!",
+      "You're a star learner!",
+      "Let's have fun with English!",
+      "Magical work!",
+      "You're sparkling today!"
+    ],
+    "motivationalQuotes": [
+      "Learning is an adventure - let's explore together!",
+      "Every word you learn is a new friend!",
+      "You're making magic happen!"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Mr. Thompson",
+    "description": "A test preparation expert for TOEFL, IELTS, and other standardized tests.",
+    "personality": "strategic",
+    "specialty": "Test Preparation",
+    "imageUrl": "/avatars/mr_thompson.webp",
+    "voiceType": "confident_male",
+    "backgroundColor": "#34495e",
+    "accentColor": "#e74c3c",
+    "traits": [
+      "strategic",
+      "focused",
+      "results-oriented",
+      "analytical"
+    ],
+    "teachingStyle": "Test strategies with timed practice",
+    "favoriteTopics": [
+      "Test strategies",
+      "Time management",
+      "Score improvement"
+    ],
+    "catchphrases": [
+      "Strategic thinking!",
+      "That's a high-scoring response.",
+      "You're test-ready!",
+      "Perfect timing!",
+      "That's exactly what examiners want to see!"
+    ],
+    "motivationalQuotes": [
+      "Success on tests comes from strategy and practice.",
+      "Know the test, beat the test.",
+      "Every practice question brings you closer to your goal score."
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Captain Adventure",
+    "description": "An explorer who teaches English through travel and adventure stories.",
+    "personality": "adventurous",
+    "specialty": "Travel & Conversational English",
+    "imageUrl": "/avatars/captain_adventure.webp",
+    "voiceType": "enthusiastic_male",
+    "backgroundColor": "#16a085",
+    "accentColor": "#f39c12",
+    "traits": [
+      "adventurous",
+      "storytelling",
+      "engaging",
+      "worldly"
+    ],
+    "teachingStyle": "Story-based learning with real-world scenarios",
+    "favoriteTopics": [
+      "Travel vocabulary",
+      "Cultural experiences",
+      "Survival English"
+    ],
+    "catchphrases": [
+      "Adventure awaits!",
+      "You're ready for the world!",
+      "That's explorer-level English!",
+      "Pack your bags - you're fluent enough to travel!",
+      "The world is your classroom!"
+    ],
+    "motivationalQuotes": [
+      "Every language learned is a new world to explore.",
+      "The best way to learn is through adventure.",
+      "Your English is your passport to the world."
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dr. Tech",
+    "description": "A technology expert teaching English for the digital age and tech industry.",
+    "personality": "innovative",
+    "specialty": "Technology & Digital English",
+    "imageUrl": "/avatars/dr_tech.webp",
+    "voiceType": "modern_male",
+    "backgroundColor": "#1abc9c",
+    "accentColor": "#3498db",
+    "traits": [
+      "innovative",
+      "modern",
+      "tech-savvy",
+      "forward-thinking"
+    ],
+    "teachingStyle": "Tech-integrated learning with digital tools",
+    "favoriteTopics": [
+      "Tech vocabulary",
+      "Digital communication",
+      "AI and future"
+    ],
+    "catchphrases": [
+      "You're coding your way to fluency!",
+      "That's next-level English!",
+      "Ready for the tech world!",
+      "Your digital English is on point!",
+      "Innovation in action!"
+    ],
+    "motivationalQuotes": [
+      "Technology and language are the tools of the future.",
+      "In the digital age, English is your operating system.",
+      "Every tech term mastered is a skill for tomorrow."
+    ]
+  }
+]

@@ -1,0 +1,214 @@
+{
+  "questionPrompts": {
+    "A1": "Generate 5 beginner-level (A1 CEFR) American English grammar questions.\nEach question should:\n- Test basic grammar (pronouns, articles, present simple, basic prepositions)\n- Have 4 multiple choice options\n- Include a clear explanation\n- Be suitable for absolute beginners\n\nFormat as JSON array with: questionText, correctAnswer, options (array), explanationEnglish, category, difficulty: \"A1\"",
+    "A2": "Generate 5 elementary-level (A2 CEFR) American English grammar questions.\nEach question should:\n- Test past simple, comparatives, modal verbs, future tenses\n- Have 4 multiple choice options\n- Include a clear explanation\n- Build on A1 knowledge\n\nFormat as JSON array with: questionText, correctAnswer, options (array), explanationEnglish, category, difficulty: \"A2\"",
+    "B1": "Generate 5 intermediate-level (B1 CEFR) American English grammar questions.\nEach question should:\n- Test present perfect, conditionals, passive voice, reported speech basics\n- Have 4 multiple choice options\n- Include a detailed explanation\n- Challenge intermediate learners\n\nFormat as JSON array with: questionText, correctAnswer, options (array), explanationEnglish, category, difficulty: \"B1\"",
+    "B2": "Generate 5 upper-intermediate-level (B2 CEFR) American English grammar questions.\nEach question should:\n- Test past perfect, third conditional, advanced passive, complex reported speech\n- Have 4 multiple choice options\n- Include a comprehensive explanation\n- Prepare students for advanced study\n\nFormat as JSON array with: questionText, correctAnswer, options (array), explanationEnglish, category, difficulty: \"B2\"",
+    "C1": "Generate 5 advanced-level (C1 CEFR) American English grammar questions.\nEach question should:\n- Test inversion, subjunctive, cleft sentences, advanced conditionals\n- Have 4 multiple choice options\n- Include an academic-level explanation\n- Challenge advanced learners\n\nFormat as JSON array with: questionText, correctAnswer, options (array), explanationEnglish, category, difficulty: \"C1\"",
+    "C2": "Generate 5 proficiency-level (C2 CEFR) American English questions.\nEach question should:\n- Test native-like expressions, subtle grammar distinctions, stylistic choices\n- Have 4 multiple choice options\n- Include a nuanced explanation\n- Test near-native competence\n\nFormat as JSON array with: questionText, correctAnswer, options (array), explanationEnglish, category, difficulty: \"C2\""
+  },
+  "vocabularyPrompts": {
+    "A1": "Generate 10 beginner-level (A1) American English vocabulary words.\nTopics: greetings, numbers, colors, family, daily objects\nEach word should include: word, definition, example sentence, IPA pronunciation",
+    "A2": "Generate 10 elementary-level (A2) American English vocabulary words.\nTopics: travel, shopping, food, hobbies, weather\nEach word should include: word, definition, example sentence, IPA pronunciation",
+    "B1": "Generate 10 intermediate-level (B1) American English vocabulary words.\nTopics: education, technology, health, environment, media\nEach word should include: word, definition, example sentence, IPA pronunciation",
+    "B2": "Generate 10 upper-intermediate-level (B2) American English vocabulary words.\nTopics: business, politics, science, arts, social issues\nEach word should include: word, definition, example sentence, IPA pronunciation",
+    "C1": "Generate 10 advanced-level (C1) American English vocabulary words.\nTopics: academic writing, legal terms, medical terminology, finance\nEach word should include: word, definition, example sentence, IPA pronunciation",
+    "C2": "Generate 10 proficiency-level (C2) American English vocabulary words.\nTopics: sophisticated expressions, rare words, literary terms, idiomatic phrases\nEach word should include: word, definition, example sentence, IPA pronunciation"
+  },
+  "dialoguePrompts": {
+    "A1": "Create a simple dialogue (4-6 exchanges) for A1 learners.\nScenario: Meeting someone new at school\nUse: basic greetings, introductions, simple questions\nInclude: speaker labels, natural American English",
+    "A2": "Create a dialogue (6-8 exchanges) for A2 learners.\nScenario: Ordering food at a restaurant\nUse: polite requests, preferences, past tense\nInclude: speaker labels, common American expressions",
+    "B1": "Create a dialogue (8-10 exchanges) for B1 learners.\nScenario: Job interview\nUse: present perfect, conditionals, formal register\nInclude: speaker labels, professional American English",
+    "B2": "Create a dialogue (10-12 exchanges) for B2 learners.\nScenario: Discussing environmental issues\nUse: complex sentences, opinions, counter-arguments\nInclude: speaker labels, academic American English",
+    "C1": "Create a dialogue (12-15 exchanges) for C1 learners.\nScenario: Business negotiation\nUse: diplomatic language, hedging, advanced structures\nInclude: speaker labels, sophisticated American English",
+    "C2": "Create a dialogue (15+ exchanges) for C2 learners.\nScenario: Academic debate on AI ethics\nUse: nuanced arguments, idiomatic expressions, rhetorical devices\nInclude: speaker labels, native-level American English"
+  },
+  "supportedLanguages": {
+    "ar": "Arabic",
+    "fr": "French",
+    "es": "Spanish",
+    "de": "German",
+    "zh": "Chinese (Simplified)"
+  },
+  "speechEvaluationCriteria": {
+    "grammar": {
+      "A1": [
+        "Subject-verb agreement",
+        "Basic article usage",
+        "Simple sentence structure"
+      ],
+      "A2": [
+        "Past tense formation",
+        "Question formation",
+        "Basic conjunctions"
+      ],
+      "B1": [
+        "Complex sentences",
+        "Conditional structures",
+        "Passive voice"
+      ],
+      "B2": [
+        "Advanced tenses",
+        "Reported speech",
+        "Relative clauses"
+      ],
+      "C1": [
+        "Subjunctive mood",
+        "Inversion",
+        "Cleft sentences"
+      ],
+      "C2": [
+        "Stylistic variation",
+        "Subtle distinctions",
+        "Native-like structures"
+      ]
+    },
+    "pronunciation": {
+      "A1": [
+        "Clear vowel sounds",
+        "Basic consonants",
+        "Word stress"
+      ],
+      "A2": [
+        "Sentence stress",
+        "Basic intonation",
+        "Common sound patterns"
+      ],
+      "B1": [
+        "Connected speech",
+        "Weak forms",
+        "Rhythm patterns"
+      ],
+      "B2": [
+        "Advanced intonation",
+        "Emphasis patterns",
+        "Natural flow"
+      ],
+      "C1": [
+        "Subtle sound distinctions",
+        "Regional awareness",
+        "Prosodic features"
+      ],
+      "C2": [
+        "Native-like rhythm",
+        "Idiomatic stress",
+        "Expressive intonation"
+      ]
+    },
+    "fluency": {
+      "A1": [
+        "Basic phrases without pauses",
+        "Simple responses"
+      ],
+      "A2": [
+        "Short sentences smoothly",
+        "Basic conversation flow"
+      ],
+      "B1": [
+        "Extended speech",
+        "Appropriate pausing",
+        "Self-correction"
+      ],
+      "B2": [
+        "Natural pace",
+        "Minimal hesitation",
+        "Smooth transitions"
+      ],
+      "C1": [
+        "Effortless expression",
+        "Spontaneous speech",
+        "Complex ideas fluently"
+      ],
+      "C2": [
+        "Native-like fluency",
+        "Nuanced expression",
+        "Rhetorical skill"
+      ]
+    }
+  },
+  "avatarScripts": {
+    "greeting": {
+      "Professor Maxwell": [
+        "Good day, scholar! Ready to master English grammar today?",
+        "Welcome back to our linguistic journey. Let's explore the intricacies of English.",
+        "Ah, a dedicated learner! Grammar awaits your attention."
+      ],
+      "Dr. Sophia Chen": [
+        "Hello there! Let's work on making your pronunciation shine!",
+        "Welcome! Today we'll focus on sounding like a native speaker.",
+        "Great to see you! Ready to perfect those American sounds?"
+      ],
+      "Coach Mike": [
+        "Hey champion! Ready to boost that vocabulary?",
+        "What's up! Let's learn some awesome new words today!",
+        "Yo! Time to expand your word power!"
+      ],
+      "Ms. Elena Rodriguez": [
+        "Good morning. Shall we refine your professional English?",
+        "Welcome. Today's lesson focuses on business communication.",
+        "Hello. Let's polish your formal English skills."
+      ],
+      "Aymena": [
+        "Hello, dear learner! I'm so happy you're here!",
+        "Welcome! Every step you take brings you closer to fluency.",
+        "Hi there! Let's learn together at your own pace."
+      ]
+    },
+    "encouragement": {
+      "Professor Maxwell": [
+        "Excellent grammatical precision! Your understanding is deepening.",
+        "Splendid work! You're mastering these structures admirably.",
+        "Your analytical skills are impressive. Keep it up!"
+      ],
+      "Dr. Sophia Chen": [
+        "Beautiful pronunciation! I can hear the improvement!",
+        "Your accent is becoming more natural every day!",
+        "Wonderful clarity! Native speakers would understand you perfectly."
+      ],
+      "Coach Mike": [
+        "Awesome job! You're on fire today!",
+        "That's what I'm talking about! Keep crushing it!",
+        "You're a vocabulary superstar! High five!"
+      ],
+      "Ms. Elena Rodriguez": [
+        "Very professional. That's exactly how it should be expressed.",
+        "Excellent business communication. You're ready for the boardroom.",
+        "Impeccable formal English. Well done."
+      ],
+      "Aymena": [
+        "I'm so proud of you! You're doing wonderfully!",
+        "Every mistake is a step toward success. Keep going!",
+        "You're making beautiful progress. I believe in you!"
+      ]
+    },
+    "correction": {
+      "Professor Maxwell": [
+        "Let me explain the correct grammatical structure here...",
+        "An interesting attempt, but let's examine the rule more closely.",
+        "This is a common error. The correct form is..."
+      ],
+      "Dr. Sophia Chen": [
+        "Almost perfect! Try emphasizing this syllable...",
+        "Good try! Let me show you the correct mouth position.",
+        "Listen carefully to the difference..."
+      ],
+      "Coach Mike": [
+        "Oops! Close one! The right word is actually...",
+        "Good guess! But here's a better choice...",
+        "Almost there! Let me show you the correct answer."
+      ],
+      "Ms. Elena Rodriguez": [
+        "In a professional context, we would say...",
+        "That's informal. The business-appropriate version is...",
+        "Let me suggest a more formal alternative."
+      ],
+      "Aymena": [
+        "That's okay! Making mistakes is how we learn. The answer is...",
+        "Don't worry! Let's look at this together.",
+        "You're so close! Here's a hint..."
+      ]
+    }
+  },
+  "generatedAt": "2025-12-30T08:40:38.897Z",
+  "version": "2.0.0"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Professor Maxwell",
+    "description": "A distinguished grammar expert with decades of teaching experience",
+    "personality": "scholarly",
+    "specialty": "Grammar & Syntax",
+    "imageUrl": "/avatars/professor_maxwell.webp",
+    "voiceType": "mature_male",
+    "catchphrases": [
+      "Excellent grammatical precision!",
+      "Let's analyze this structure together.",
+      "Grammar is the backbone of clear communication."
+    ]
+  },
+  {
+    "name": "Dr. Sophia Chen",
+    "description": "A pronunciation specialist focusing on American English phonetics",
+    "personality": "encouraging",
+    "specialty": "Pronunciation & Phonetics",
+    "imageUrl": "/avatars/hostess_prize2pride_silver.webp",
+    "voiceType": "professional_female",
+    "catchphrases": [
+      "Perfect pronunciation!",
+      "Listen to the rhythm of American English.",
+      "Your accent is improving beautifully!"
+    ]
+  },
+  {
+    "name": "Coach Mike",
+    "description": "An energetic vocabulary coach who makes learning fun",
+    "personality": "playful",
+    "specialty": "Vocabulary & Idioms",
+    "imageUrl": "/avatars/puchasy_avatar.webp",
+    "voiceType": "energetic_male",
+    "catchphrases": [
+      "Awesome word choice!",
+      "Let's expand that vocabulary!",
+      "You're on fire today!"
+    ]
+  },
+  {
+    "name": "Ms. Elena Rodriguez",
+    "description": "A cultural expert teaching business and formal English",
+    "personality": "professional",
+    "specialty": "Business & Cultural English",
+    "imageUrl": "/avatars/hostess_prize2pride_gold.png",
+    "voiceType": "elegant_female",
+    "catchphrases": [
+      "Very professional communication!",
+      "That's exactly how native speakers express it.",
+      "Your business English is impeccable!"
+    ]
+  },
+  {
+    "name": "Aymena",
+    "description": "A warm and patient teacher specializing in beginner levels",
+    "personality": "nurturing",
+    "specialty": "Beginner English & Foundations",
+    "imageUrl": "/avatars/aymena_avatar.webp",
+    "voiceType": "warm_female",
+    "catchphrases": [
+      "You're doing wonderfully!",
+      "Every step forward is progress.",
+      "I believe in you!"
+    ]
+  },
+  {
+    "name": "Dr. James Wright",
+    "description": "An academic writing specialist for advanced learners",
+    "personality": "intellectual",
+    "specialty": "Academic & Advanced Writing",
+    "imageUrl": "/avatars/dr_james_wright.webp",
+    "voiceType": "authoritative_male",
+    "catchphrases": [
+      "Scholarly excellence!",
+      "Your argumentation is compelling.",
+      "That's publication-worthy writing!"
+    ]
+  },
+  {
+    "name": "Luna Star",
+    "description": "A fun and creative teacher for young learners",
+    "personality": "playful",
+    "specialty": "Children's English",
+    "imageUrl": "/avatars/luna_star.webp",
+    "voiceType": "cheerful_female",
+    "catchphrases": [
+      "Super duper awesome!",
+      "You're a star learner!",
+      "Let's have fun with English!"
+    ]
+  },
+  {
+    "name": "Mr. Thompson",
+    "description": "A test preparation expert for TOEFL and IELTS",
+    "personality": "strategic",
+    "specialty": "Test Preparation",
+    "imageUrl": "/avatars/mr_thompson.webp",
+    "voiceType": "confident_male",
+    "catchphrases": [
+      "Strategic thinking!",
+      "That's a high-scoring response.",
+      "You're test-ready!"
+    ]
+  }
+]
