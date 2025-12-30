@@ -2,6 +2,8 @@ import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
 import Home from "@/pages/Home";
+import AugmentedHome from "@/pages/AugmentedHome";
+import VoiceCourse from "@/pages/VoiceCourse";
 import Quiz from "@/pages/Quiz";
 import Progress from "@/pages/Progress";
 import Leaderboard from "@/pages/Leaderboard";
@@ -18,7 +20,12 @@ import { ThemeProvider } from "./contexts/ThemeContext";
 function Router() {
   return (
     <Switch>
-      <Route path={"/"} component={Home} />
+      {/* Augmented Platform Routes */}
+      <Route path={"/"} component={AugmentedHome} />
+      <Route path={"/voice-course"} component={VoiceCourse} />
+      
+      {/* Original Platform Routes */}
+      <Route path={"/classic"} component={Home} />
       <Route path={"/auth"} component={GmailAuth} />
       <Route path={"/difficulty"} component={DifficultySelect} />
       <Route path={"/quiz"} component={Quiz} />
@@ -37,7 +44,7 @@ function Router() {
 function App() {
   return (
     <ErrorBoundary>
-      <ThemeProvider defaultTheme="light">
+      <ThemeProvider defaultTheme="dark">
         <TooltipProvider>
           <Toaster />
           <Router />
