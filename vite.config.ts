@@ -10,6 +10,7 @@ import { vitePluginManusRuntime } from "vite-plugin-manus-runtime";
 const plugins = [react(), tailwindcss(), jsxLocPlugin(), vitePluginManusRuntime()];
 
 export default defineConfig({
+  base: process.env.GITHUB_PAGES === 'true' ? '/Prize2Pride/' : '/',
   plugins,
   resolve: {
     alias: {

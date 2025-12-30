@@ -13,12 +13,17 @@ import GmailAuth from "@/pages/GmailAuth";
 import DifficultySelect from "@/pages/DifficultySelect";
 import PracticeMode from "@/pages/PracticeMode";
 import VocabularyBuilder from "@/pages/VocabularyBuilder";
-import { Route, Switch } from "wouter";
+import { Route, Switch, Router as WouterRouter } from "wouter";
+import { useHashLocation } from "wouter/use-hash-location";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 
+// Use hash-based routing for GitHub Pages compatibility
+const basePath = import.meta.env.BASE_URL || '/';
+
 function Router() {
   return (
+    <WouterRouter hook={useHashLocation}>
     <Switch>
       {/* Augmented Platform Routes */}
       <Route path={"/"} component={AugmentedHome} />
@@ -38,6 +43,7 @@ function Router() {
       <Route path={"/404"} component={NotFound} />
       <Route component={NotFound} />
     </Switch>
+    </WouterRouter>
   );
 }
 
